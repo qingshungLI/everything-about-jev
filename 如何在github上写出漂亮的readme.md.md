@@ -24,7 +24,7 @@
 
 ### :+1: readme.md的介绍:+1:
 
-github上的readme.md是采用markdown语言编写，markdown语言的特点是，其格式编写方便。并且兼容latex，latex是用于非常强大的排版能力与office并列，对于有编程基础的人并不陌生，其排版能力非常强大，在文本编辑过程中，可以不用鼠标。 
+github上的readme.md是采用markdown语言编写，markdown语言的特点是，其格式编写方便。并且兼容latex，latex是用于非常强大的排版能力与office并列，对于有编程基础的人并不陌生，其排版能力非常强大，在文本编辑过程中，可以不用鼠标。
 
 ### :kissing_smiling_eyes:markdown的emoji编辑功能:kiss:
 
@@ -52,7 +52,7 @@ readme项目说明文档中，有如下图的标签
 
 #### :maple_leaf: shields.io中有动态的图标![brightgreen](https://img.shields.io/badge/-shields.io中有动态的图标-brightgreen)
 
-如下需要相应的平台支持,图标显示格式可以查阅[shields.io](shields.io) 
+如下需要相应的平台支持,图标显示格式可以查阅[shields.io](shields.io)
 
 ```
 twitter follow        /twitter/follow/:user?label=Follow
@@ -110,7 +110,7 @@ language标签
 
 ![Language](https://img.shields.io/badge/language-c++-brightgreen)
 
- 
+
 
 Documentation标签
 
