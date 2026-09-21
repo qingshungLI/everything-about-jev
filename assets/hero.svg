@@ -7,7 +7,7 @@
   <g fill="none" stroke="#30475f" opacity=".5"><path d="M0 290H1200M0 330H1200M800 0V380M1000 0V380"/><circle cx="1010" cy="140" r="110"/><circle cx="1010" cy="140" r="70"/></g>
   <text x="65" y="68" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#5eead4">THE DECISION MODEL FIELD GUIDE</text>
   <text x="60" y="148" font-family="Arial,sans-serif" font-size="65" font-weight="700" fill="white">Everything about Jev</text>
-  <text x="65" y="191" font-family="Arial,sans-serif" font-size="21" fill="#b5c6d8">Understand it. Build with it. Inspect the evidence.</text>
+  <text x="65" y="191" font-family="Arial,sans-serif" font-size="21" fill="#b5c6d8">Guides, examples and community projects.</text>
   <g font-family="Arial,sans-serif" font-size="18" text-anchor="middle">
     <rect x="65" y="239" width="195" height="56" rx="12" fill="#172b46" stroke="#456078"/><text x="162" y="274" fill="#d9e6f3">STATE + QUESTIONS</text>
     <path d="M280 267H330" stroke="#5eead4" stroke-width="2"/><text x="326" y="273" fill="#5eead4">›</text>
@@ -15,5 +15,5 @@
     <path d="M600 267H650" stroke="#5eead4" stroke-width="2"/><text x="646" y="273" fill="#5eead4">›</text>
     <rect x="670" y="239" width="255" height="56" rx="12" fill="#172b46" stroke="#456078"/><text x="797" y="274" fill="#d9e6f3">DECISIONS + PROBABILITIES</text>
   </g>
-  <text x="65" y="345" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#9eb6c9">BILINGUAL GUIDES   /   WORKING EXAMPLES   /   SOURCES &amp; DEBATES</text>
+  <text x="65" y="345" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#9eb6c9">BILINGUAL GUIDES   /   CODE EXAMPLES   /   COMMUNITY PROJECTS</text>
 </svg>
