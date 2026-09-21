@@ -1,0 +1,34 @@
+{
+  "name": "everything-about-jev",
+  "version": "1.0.0",
+  "description": "Bilingual Jev field guide and tested examples",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "demo": "tsx demos/typescript/jev-demo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingshungLI/everything-about-jev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/qingshungLI/everything-about-jev/issues"
+  },
+  "homepage": "https://github.com/qingshungLI/everything-about-jev#readme",
+  "dependencies": {
+    "@typesafe-ai/sdk": "0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "private": true
+}

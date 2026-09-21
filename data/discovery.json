@@ -1,0 +1,6310 @@
+[
+  {
+    "repository": "0x7067/jev-browse",
+    "url": "https://github.com/0x7067/jev-browse",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0x963D/last-exit",
+    "url": "https://github.com/0x963D/last-exit",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xArx/jevegis",
+    "url": "https://github.com/0xArx/jevegis",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xnairb/research_desk",
+    "url": "https://github.com/0xnairb/research_desk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xNatoshi/jev-codex-router",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xPlaygrounds/rig",
+    "url": "https://github.com/0xPlaygrounds/rig",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xShin0221/openpoke-meets-jev",
+    "url": "https://github.com/0xShin0221/openpoke-meets-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "0xtrou/rubikjev",
+    "url": "https://github.com/0xtrou/rubikjev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "1jehuang/jev-pr-labeler",
+    "url": "https://github.com/1jehuang/jev-pr-labeler",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "24601/Augustus",
+    "url": "https://github.com/24601/Augustus",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "24601/rh-guard",
+    "url": "https://github.com/24601/rh-guard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "3clyp50/a0-typesafe-ai",
+    "url": "https://github.com/3clyp50/a0-typesafe-ai",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "455-dIAO/windows-save-token-jev-setup",
+    "url": "https://github.com/455-dIAO/windows-save-token-jev-setup",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "4esv/jev-eval",
+    "url": "https://github.com/4esv/jev-eval",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "aabolfazl/typesafe-local",
+    "url": "https://github.com/aabolfazl/typesafe-local",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "aaronshaf/opencode-jev-orchestrator",
+    "url": "https://github.com/aaronshaf/opencode-jev-orchestrator",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/awesome-typesafe",
+    "url": "https://github.com/AbdelStark/awesome-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/bicameral",
+    "url": "https://github.com/AbdelStark/bicameral",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/heist-one",
+    "url": "https://github.com/AbdelStark/heist-one",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/jev-benchmarks",
+    "url": "https://github.com/AbdelStark/jev-benchmarks",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/s1-rs",
+    "url": "https://github.com/AbdelStark/s1-rs",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AbdelStark/typesafe-rs",
+    "url": "https://github.com/AbdelStark/typesafe-rs",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "abhixhek/jevcal",
+    "url": "https://github.com/abhixhek/jevcal",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ably-labs/jev-pong",
+    "url": "https://github.com/ably-labs/jev-pong",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AboveColin/HA-Jev",
+    "url": "https://github.com/AboveColin/HA-Jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AboveColin/jevclient",
+    "url": "https://github.com/AboveColin/jevclient",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "acharyaanusha/magic-jev",
+    "url": "https://github.com/acharyaanusha/magic-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "achimala/jev-paint",
+    "url": "https://github.com/achimala/jev-paint",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "achimala/jevinci",
+    "url": "https://github.com/achimala/jevinci",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "adarshmishra07/jcm-router",
+    "url": "https://github.com/adarshmishra07/jcm-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "adhyaay-karnwal/jev-chat",
+    "url": "https://github.com/adhyaay-karnwal/jev-chat",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "adtyavrdhn/pydantic-jev-examples",
+    "url": "https://github.com/adtyavrdhn/pydantic-jev-examples",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "agent-chaperone/agent-chaperone",
+    "url": "https://github.com/agent-chaperone/agent-chaperone",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "agent-labs-dev/fastbrowse",
+    "url": "https://github.com/agent-labs-dev/fastbrowse",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "agentgateway/agentgateway",
+    "url": "https://github.com/agentgateway/agentgateway",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ainame/swift-typesafe",
+    "url": "https://github.com/ainame/swift-typesafe",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ajensenwaud/hermes-jev-plugin",
+    "url": "https://github.com/ajensenwaud/hermes-jev-plugin",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "akash-kamat/system-one-gemma",
+    "url": "https://github.com/akash-kamat/system-one-gemma",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AkashPriyadarshii/jev-curate",
+    "url": "https://github.com/AkashPriyadarshii/jev-curate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AkashPriyadarshii/jev-git",
+    "url": "https://github.com/AkashPriyadarshii/jev-git",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AkashPriyadarshii/jev-scout",
+    "url": "https://github.com/AkashPriyadarshii/jev-scout",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AkashPriyadarshii/jev-seo",
+    "url": "https://github.com/AkashPriyadarshii/jev-seo",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AkashPriyadarshii/jev-superpowers",
+    "url": "https://github.com/AkashPriyadarshii/jev-superpowers",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AlbionaHoti/refgarden",
+    "url": "https://github.com/AlbionaHoti/refgarden",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "alexshpunt/pi-agent-foreman",
+    "url": "https://github.com/alexshpunt/pi-agent-foreman",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "aliaihub/awesome-jev-usecases",
+    "url": "https://github.com/aliaihub/awesome-jev-usecases",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AliceRoselia/Typesafe_chess_eval",
+    "url": "https://github.com/AliceRoselia/Typesafe_chess_eval",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "alterhq/typesafe-sdk-swift",
+    "url": "https://github.com/alterhq/typesafe-sdk-swift",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "altryne/jevify",
+    "url": "https://github.com/altryne/jevify",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "amycardoso/jev-palette",
+    "url": "https://github.com/amycardoso/jev-palette",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "anandi1989/awesome-jev-usecases",
+    "url": "https://github.com/anandi1989/awesome-jev-usecases",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "andrelandgraf/safer-with-jev",
+    "url": "https://github.com/andrelandgraf/safer-with-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "andrewsilber/JevsBistro",
+    "url": "https://github.com/andrewsilber/JevsBistro",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "anessbelbati/jev-rerank-bench",
+    "url": "https://github.com/anessbelbati/jev-rerank-bench",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Anil-matcha/awesome-agent-apis",
+    "url": "https://github.com/Anil-matcha/awesome-agent-apis",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Anil-matcha/awesome-generative-ai-apps",
+    "url": "https://github.com/Anil-matcha/awesome-generative-ai-apps",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Anil-matcha/awesome-gpt-6-astra",
+    "url": "https://github.com/Anil-matcha/awesome-gpt-6-astra",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Anil-matcha/awesome-meta-muse-agent",
+    "url": "https://github.com/Anil-matcha/awesome-meta-muse-agent",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Anil-matcha/open-business-agents",
+    "url": "https://github.com/Anil-matcha/open-business-agents",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "anilsenay/jev",
+    "url": "https://github.com/anilsenay/jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "aniruddh-krovvidi/switchboard",
+    "url": "https://github.com/aniruddh-krovvidi/switchboard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "anisselbd/jev-phishing-bench",
+    "url": "https://github.com/anisselbd/jev-phishing-bench",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "anpicasso/hermes-jev-approvals",
+    "url": "https://github.com/anpicasso/hermes-jev-approvals",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AntonioCoppe/jev-harness",
+    "url": "https://github.com/AntonioCoppe/jev-harness",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "aowang-ai/jev-trade",
+    "url": "https://github.com/aowang-ai/jev-trade",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AppitStudio/awesome-jev",
+    "url": "https://github.com/AppitStudio/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Argos1111/jev_local",
+    "url": "https://github.com/Argos1111/jev_local",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ariel-frischer/jevkit",
+    "url": "https://github.com/ariel-frischer/jevkit",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "arielweinberger/jev-autopilot",
+    "url": "https://github.com/arielweinberger/jev-autopilot",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "arunav25/jev-mcp",
+    "url": "https://github.com/arunav25/jev-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "asfarsadewa/human-compiler",
+    "url": "https://github.com/asfarsadewa/human-compiler",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ashaazami/river-run-typesafe",
+    "url": "https://github.com/ashaazami/river-run-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "AshutoshVJTI/progressgate",
+    "url": "https://github.com/AshutoshVJTI/progressgate",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "atarikcaliskan/jevball",
+    "url": "https://github.com/atarikcaliskan/jevball",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "atharvamhaske/typesafe-sdk-go",
+    "url": "https://github.com/atharvamhaske/typesafe-sdk-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "awlevin/typesafe-computer-use",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "awun8191/jev-resume-analyzer",
+    "url": "https://github.com/awun8191/jev-resume-analyzer",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ax-llm/ax",
+    "url": "https://github.com/ax-llm/ax",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "az9713/jev-model-router",
+    "url": "https://github.com/az9713/jev-model-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "backmeupplz/jev_antispam_bot",
+    "url": "https://github.com/backmeupplz/jev_antispam_bot",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "baibizhe/jev-decision-benchmarks",
+    "url": "https://github.com/baibizhe/jev-decision-benchmarks",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bastani-inc/atomic",
+    "url": "https://github.com/bastani-inc/atomic",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BeLazy167/typesafe-mod",
+    "url": "https://github.com/BeLazy167/typesafe-mod",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Bentlybro/siftr",
+    "url": "https://github.com/Bentlybro/siftr",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BerriAI/litellm",
+    "url": "https://github.com/BerriAI/litellm",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bestagentkits/jev-skillful",
+    "url": "https://github.com/bestagentkits/jev-skillful",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bestagentkits/typesafe-demo-mcp",
+    "url": "https://github.com/bestagentkits/typesafe-demo-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Bewinxed/jevgpt",
+    "url": "https://github.com/Bewinxed/jevgpt",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BillionsBobby/JevRouter",
+    "url": "https://github.com/BillionsBobby/JevRouter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "binnash/typesafe-sdk",
+    "url": "https://github.com/binnash/typesafe-sdk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bitnovus/jev-spam-eval",
+    "url": "https://github.com/bitnovus/jev-spam-eval",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "blakestone-x/jev-mcp",
+    "url": "https://github.com/blakestone-x/jev-mcp",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "blas0/jev-shadcn-lint-eval",
+    "url": "https://github.com/blas0/jev-shadcn-lint-eval",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bnsd55/jevmlx",
+    "url": "https://github.com/bnsd55/jevmlx",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Bodila51/grok-bot-jev",
+    "url": "https://github.com/Bodila51/grok-bot-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bohutang/sift",
+    "url": "https://github.com/bohutang/sift",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "bojansandhaus/jev-decisions",
+    "url": "https://github.com/bojansandhaus/jev-decisions",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BorisLeMeec/jev",
+    "url": "https://github.com/BorisLeMeec/jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BoundaryML/baml",
+    "url": "https://github.com/BoundaryML/baml",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "brainstormity/Jev-Moderation-Bot",
+    "url": "https://github.com/brainstormity/Jev-Moderation-Bot",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "brainstormity/Jev-X-Sentiment-Analysis",
+    "url": "https://github.com/brainstormity/Jev-X-Sentiment-Analysis",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Brainwires/jevwire",
+    "url": "https://github.com/Brainwires/jevwire",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "brandonbryant12/transcript-scorecard",
+    "url": "https://github.com/brandonbryant12/transcript-scorecard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "brnyxx/jev-ra",
+    "url": "https://github.com/brnyxx/jev-ra",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "browser-use/jev-ultrafast",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "brudarko/jev-mac-voice",
+    "url": "https://github.com/brudarko/jev-mac-voice",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "buchmark/claude-jev",
+    "url": "https://github.com/buchmark/claude-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Bud-ro/jev-demos",
+    "url": "https://github.com/Bud-ro/jev-demos",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "buluoray/JevOnly",
+    "url": "https://github.com/buluoray/JevOnly",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BunsDev/river-oaks",
+    "url": "https://github.com/BunsDev/river-oaks",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "burnigtm/jev-mcp",
+    "url": "https://github.com/burnigtm/jev-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Butochnikov/laravel-typesafe-jev",
+    "url": "https://github.com/Butochnikov/laravel-typesafe-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Butochnikov/typesafe-sdk-php",
+    "url": "https://github.com/Butochnikov/typesafe-sdk-php",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "BYK/jev-mcp",
+    "url": "https://github.com/BYK/jev-mcp",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cablehead/jev.nu",
+    "url": "https://github.com/cablehead/jev.nu",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "caiovicentino/jev-align",
+    "url": "https://github.com/caiovicentino/jev-align",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "caiovicentino/jev-shield",
+    "url": "https://github.com/caiovicentino/jev-shield",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "can1357/jegrep",
+    "url": "https://github.com/can1357/jegrep",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cardotrejos/jev-ad-preflight",
+    "url": "https://github.com/cardotrejos/jev-ad-preflight",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cardotrejos/jev-should-i-apply",
+    "url": "https://github.com/cardotrejos/jev-should-i-apply",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cardotrejos/jev-user-jury",
+    "url": "https://github.com/cardotrejos/jev-user-jury",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "carldaws/hunch",
+    "url": "https://github.com/carldaws/hunch",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "carlsonchik/judging-with-typesafe",
+    "url": "https://github.com/carlsonchik/judging-with-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cbetz/extremely-specific-council",
+    "url": "https://github.com/cbetz/extremely-specific-council",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cephalization/jev-triage",
+    "url": "https://github.com/cephalization/jev-triage",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Charlyhno-eng/jev-document-classification",
+    "url": "https://github.com/Charlyhno-eng/jev-document-classification",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "chenmingtang830/jevarena",
+    "url": "https://github.com/chenmingtang830/jevarena",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "CheshiAI/Cheshi",
+    "url": "https://github.com/CheshiAI/Cheshi",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ChetasLua/jevmeter",
+    "url": "https://github.com/ChetasLua/jevmeter",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "chez-shanpu/typesafeai-go",
+    "url": "https://github.com/chez-shanpu/typesafeai-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "chopratejas/invalidate",
+    "url": "https://github.com/chopratejas/invalidate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "choxos/jev-reviewer",
+    "url": "https://github.com/choxos/jev-reviewer",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "choxos/jevchess",
+    "url": "https://github.com/choxos/jevchess",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "chy4pro/jev-for-chrome",
+    "url": "https://github.com/chy4pro/jev-for-chrome",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ckaraca/awesome-jev",
+    "url": "https://github.com/ckaraca/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cline/plugins",
+    "url": "https://github.com/cline/plugins",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cobusgreyling/Jev",
+    "url": "https://github.com/cobusgreyling/Jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cocktailpeanut/jevthoven",
+    "url": "https://github.com/cocktailpeanut/jevthoven",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "CodeAlive-AI/mastra-jev-moderation",
+    "url": "https://github.com/CodeAlive-AI/mastra-jev-moderation",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "codeitlikemiley/system-one-adapter-rust",
+    "url": "https://github.com/codeitlikemiley/system-one-adapter-rust",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "codeitlikemiley/typesafe-sdk-rust",
+    "url": "https://github.com/codeitlikemiley/typesafe-sdk-rust",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "coldteadotai/abide",
+    "url": "https://github.com/coldteadotai/abide",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cole-gillespie/typesafe-go",
+    "url": "https://github.com/cole-gillespie/typesafe-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "colinmcdermott/emoji-jev",
+    "url": "https://github.com/colinmcdermott/emoji-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "collapseindex/jev-builder",
+    "url": "https://github.com/collapseindex/jev-builder",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "collapseindex/jev-ultralightspeed",
+    "url": "https://github.com/collapseindex/jev-ultralightspeed",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "colliber/duckdb-jev",
+    "url": "https://github.com/colliber/duckdb-jev",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ComposioHQ/composio",
+    "url": "https://github.com/ComposioHQ/composio",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "compozy/compozy.",
+    "url": "https://github.com/compozy/compozy.",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "compozy/yoshi",
+    "url": "https://github.com/compozy/yoshi",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "coo-quack/jev-pii-checker",
+    "url": "https://github.com/coo-quack/jev-pii-checker",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "copyleftdev/jev-labs",
+    "url": "https://github.com/copyleftdev/jev-labs",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "CorieW/JevTest",
+    "url": "https://github.com/CorieW/JevTest",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "cpaczek/s1s",
+    "url": "https://github.com/cpaczek/s1s",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "CrowdLinker/JevPromptCoach",
+    "url": "https://github.com/CrowdLinker/JevPromptCoach",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ctaxnagomi/dgui-hypermem",
+    "url": "https://github.com/ctaxnagomi/dgui-hypermem",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ctaxnagomi/instruct-jev",
+    "url": "https://github.com/ctaxnagomi/instruct-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ctmx/openrouter-jev-mcp",
+    "url": "https://github.com/ctmx/openrouter-jev-mcp",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dabit3/jev-experiments",
+    "url": "https://github.com/dabit3/jev-experiments",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dakdevs/decide-mcp",
+    "url": "https://github.com/dakdevs/decide-mcp",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "danielgshea/jev-as-a-judge",
+    "url": "https://github.com/danielgshea/jev-as-a-judge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DanielKillenberger/jev-predict-skill",
+    "url": "https://github.com/DanielKillenberger/jev-predict-skill",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dannote/jev",
+    "url": "https://github.com/dannote/jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DanRWilloughby/snifftest",
+    "url": "https://github.com/DanRWilloughby/snifftest",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "danvega/jev-spring-boot-starter",
+    "url": "https://github.com/danvega/jev-spring-boot-starter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "daseinlabs/open-jev",
+    "url": "https://github.com/daseinlabs/open-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "david-cermak/jevlike-esp32",
+    "url": "https://github.com/david-cermak/jevlike-esp32",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dbreunig/building-with-jev-skill",
+    "url": "https://github.com/dbreunig/building-with-jev-skill",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ddfeyes/jev-mode",
+    "url": "https://github.com/ddfeyes/jev-mode",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DECRUX9812/typesafe-skill-router",
+    "url": "https://github.com/DECRUX9812/typesafe-skill-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DeepBlueDynamics/typesafe-arena",
+    "url": "https://github.com/DeepBlueDynamics/typesafe-arena",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "devagrawal09/jev-review",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "devagrawal09/stanley-code",
+    "url": "https://github.com/devagrawal09/stanley-code",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "devanshbatham/commit-miner",
+    "url": "https://github.com/devanshbatham/commit-miner",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Devin-AXIS/jev-dsh-decision",
+    "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DevMortimer/pi-typesafe",
+    "url": "https://github.com/DevMortimer/pi-typesafe",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DevMortimer/pi-warden",
+    "url": "https://github.com/DevMortimer/pi-warden",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dfa1/typesafe-java",
+    "url": "https://github.com/dfa1/typesafe-java",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Dharundp6/jev-carryforward",
+    "url": "https://github.com/Dharundp6/jev-carryforward",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Dicklesworthstone/skillranker",
+    "url": "https://github.com/Dicklesworthstone/skillranker",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "different-ai/openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Dimesio/typesafe-chess",
+    "url": "https://github.com/Dimesio/typesafe-chess",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Dimweaker/jev-libero",
+    "url": "https://github.com/Dimweaker/jev-libero",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dnakhoa/jev-deferred-crispification",
+    "url": "https://github.com/dnakhoa/jev-deferred-crispification",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "docxology/daf-jev",
+    "url": "https://github.com/docxology/daf-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "doeixd/jev-pref",
+    "url": "https://github.com/doeixd/jev-pref",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "DomMonte/n8n-nodes-typesafe-ai",
+    "url": "https://github.com/DomMonte/n8n-nodes-typesafe-ai",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "droidrun/mobile-jev",
+    "url": "https://github.com/droidrun/mobile-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "drowzeys/keys-MiniMax-Code-CLI-Browser-Scroll-Context-Enhancement-Pack-with-Jev-Ultrafast-Integration",
+    "url": "https://github.com/drowzeys/keys-MiniMax-Code-CLI-Browser-Scroll-Context-Enhancement-Pack-with-Jev-Ultrafast-Integration",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "dzhng/duet-agent",
+    "url": "https://github.com/dzhng/duet-agent",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "edgardcham/huncho",
+    "url": "https://github.com/edgardcham/huncho",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Effect-TS/effect",
+    "url": "https://github.com/Effect-TS/effect",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ekzhang/openjev-sglang",
+    "url": "https://github.com/ekzhang/openjev-sglang",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "elie222/inbox-zero",
+    "url": "https://github.com/elie222/inbox-zero",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ellipsis-dev/blink",
+    "url": "https://github.com/ellipsis-dev/blink",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ellistev/typesafe-minecraft-demo",
+    "url": "https://github.com/ellistev/typesafe-minecraft-demo",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "elpumberto/barrunto",
+    "url": "https://github.com/elpumberto/barrunto",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "emreozyoruk/hush",
+    "url": "https://github.com/emreozyoruk/hush",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "emrickgarrett/OneVOneJev",
+    "url": "https://github.com/emrickgarrett/OneVOneJev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "erendikmenn/jev-rag-benchmark",
+    "url": "https://github.com/erendikmenn/jev-rag-benchmark",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "erhanmeydan/jev2048",
+    "url": "https://github.com/erhanmeydan/jev2048",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Eric-Zhou-0302/jev-A-share-trader",
+    "url": "https://github.com/Eric-Zhou-0302/jev-A-share-trader",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "eriestra/almond-fastloop",
+    "url": "https://github.com/eriestra/almond-fastloop",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "eriestra/browser-use-olympics",
+    "url": "https://github.com/eriestra/browser-use-olympics",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ethanplusai/jev-chat-for-twitch",
+    "url": "https://github.com/ethanplusai/jev-chat-for-twitch",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "EugeneBoondock/jevsql",
+    "url": "https://github.com/EugeneBoondock/jevsql",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "eugeniughelbur/jev-engineering",
+    "url": "https://github.com/eugeniughelbur/jev-engineering",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "everyinfra/jev-radar",
+    "url": "https://github.com/everyinfra/jev-radar",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fabricioctelles/modelsystem",
+    "url": "https://github.com/fabricioctelles/modelsystem",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fatwang2/awesome-jev",
+    "url": "https://github.com/fatwang2/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fazlerocks/jevmail",
+    "url": "https://github.com/fazlerocks/jevmail",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "FBddcz/embodied-jev",
+    "url": "https://github.com/FBddcz/embodied-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "featherless-ai/simple-jev",
+    "url": "https://github.com/featherless-ai/simple-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "FFatTiger/new-api-plugin-typesafe",
+    "url": "https://github.com/FFatTiger/new-api-plugin-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fgn/jevgo",
+    "url": "https://github.com/fgn/jevgo",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fhshaik/typesafe-mario",
+    "url": "https://github.com/fhshaik/typesafe-mario",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "finetuningsingh/intelliprompter",
+    "url": "https://github.com/finetuningsingh/intelliprompter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "FirasSX914/Janus",
+    "url": "https://github.com/FirasSX914/Janus",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Foadsf/jev-for-engineers",
+    "url": "https://github.com/Foadsf/jev-for-engineers",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "formulahendry/jev-acp",
+    "url": "https://github.com/formulahendry/jev-acp",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "forvela/jev-agent-browser",
+    "url": "https://github.com/forvela/jev-agent-browser",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Frank-ZY-Dou/awesome-jev",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Friedjof/jev-mobile",
+    "url": "https://github.com/Friedjof/jev-mobile",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "frostney/clean-code-review",
+    "url": "https://github.com/frostney/clean-code-review",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "fstandhartinger/jevbench",
+    "url": "https://github.com/fstandhartinger/jevbench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gaborishka/jev-canvas",
+    "url": "https://github.com/gaborishka/jev-canvas",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gaborishka/jev-wrapped",
+    "url": "https://github.com/gaborishka/jev-wrapped",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gaborishka/jevtown",
+    "url": "https://github.com/gaborishka/jevtown",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gamesonrblx/Jevbridge",
+    "url": "https://github.com/gamesonrblx/Jevbridge",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gargpratyush/jev-router",
+    "url": "https://github.com/gargpratyush/jev-router",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Gaurav-Gosain/jev-alpha-bench",
+    "url": "https://github.com/Gaurav-Gosain/jev-alpha-bench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Gaurav-Gosain/jev-go",
+    "url": "https://github.com/Gaurav-Gosain/jev-go",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Gaurav-Gosain/jev-headline-bench",
+    "url": "https://github.com/Gaurav-Gosain/jev-headline-bench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Gaurav-Gosain/jev-sec-bench",
+    "url": "https://github.com/Gaurav-Gosain/jev-sec-bench",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "geilt/typesafe-cli",
+    "url": "https://github.com/geilt/typesafe-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "genai-craft/openvons",
+    "url": "https://github.com/genai-craft/openvons",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GenieRobot/typesafe-ai-rails",
+    "url": "https://github.com/GenieRobot/typesafe-ai-rails",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "getexcited/stepwarden",
+    "url": "https://github.com/getexcited/stepwarden",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GhalebDweikat/winnow",
+    "url": "https://github.com/GhalebDweikat/winnow",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GhrezaKh74/JevTicktRouter",
+    "url": "https://github.com/GhrezaKh74/JevTicktRouter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GiesN/typesafe-jev-workflow",
+    "url": "https://github.com/GiesN/typesafe-jev-workflow",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gilljon/typesafe-ai-rs",
+    "url": "https://github.com/gilljon/typesafe-ai-rs",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "giuliosmall/pg_typesafe",
+    "url": "https://github.com/giuliosmall/pg_typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GodsBoy/jev-agent-skill-router",
+    "url": "https://github.com/GodsBoy/jev-agent-skill-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "godspede/construct-auto-classifier",
+    "url": "https://github.com/godspede/construct-auto-classifier",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GoldenLoaf24h/browserclaw",
+    "url": "https://github.com/GoldenLoaf24h/browserclaw",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "goodrahstar/jev-column-race",
+    "url": "https://github.com/goodrahstar/jev-column-race",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "goya4140/jev-reward-model-evaluation",
+    "url": "https://github.com/goya4140/jev-reward-model-evaluation",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "GPT-AGI/OpenJev",
+    "url": "https://github.com/GPT-AGI/OpenJev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "greenyamao/Antigravity-mcp-semantic-search-with-TypeSafeAi",
+    "url": "https://github.com/greenyamao/Antigravity-mcp-semantic-search-with-TypeSafeAi",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "grishahq/decisionbridge",
+    "url": "https://github.com/grishahq/decisionbridge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "grmkris/robo-harness",
+    "url": "https://github.com/grmkris/robo-harness",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gtaras7/typesafe-jev",
+    "url": "https://github.com/gtaras7/typesafe-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "gudcks0305/jev-java",
+    "url": "https://github.com/gudcks0305/jev-java",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "guillemus/jev-go",
+    "url": "https://github.com/guillemus/jev-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "HackSing/jev-report",
+    "url": "https://github.com/HackSing/jev-report",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hamakyo/jev-starter",
+    "url": "https://github.com/hamakyo/jev-starter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Hardel-DW/jev.mods",
+    "url": "https://github.com/Hardel-DW/jev.mods",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "harshil1712/slidepilot",
+    "url": "https://github.com/harshil1712/slidepilot",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "harshwasan/pi-jev-sentinel",
+    "url": "https://github.com/harshwasan/pi-jev-sentinel",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "haseeb-heaven/jev-system-one",
+    "url": "https://github.com/haseeb-heaven/jev-system-one",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Hawxy/TypeSafeAI.Net",
+    "url": "https://github.com/Hawxy/TypeSafeAI.Net",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hegargarcia/jev-playground",
+    "url": "https://github.com/hegargarcia/jev-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "heiwa4126/jev-bun1",
+    "url": "https://github.com/heiwa4126/jev-bun1",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hellogumbo/should-ai-kill-us-all",
+    "url": "https://github.com/hellogumbo/should-ai-kill-us-all",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Heman10x-NGU/openJev-verdict-2.0",
+    "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Heman10x-NGU/Verdict-open-jev",
+    "url": "https://github.com/Heman10x-NGU/Verdict-open-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hemanth/jev-chess",
+    "url": "https://github.com/hemanth/jev-chess",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hemanth/pkg-gate",
+    "url": "https://github.com/hemanth/pkg-gate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hev/reranker",
+    "url": "https://github.com/hev/reranker",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Hexdigest123/typesafe-comment",
+    "url": "https://github.com/Hexdigest123/typesafe-comment",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "heyjunpenn/awesome-jev",
+    "url": "https://github.com/heyjunpenn/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hfiguera/typesafe_ai",
+    "url": "https://github.com/hfiguera/typesafe_ai",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "himomohi/aside-jev",
+    "url": "https://github.com/himomohi/aside-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "HorusJiang/dsh-jev-tools",
+    "url": "https://github.com/HorusJiang/dsh-jev-tools",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hotchpotch/jev-reranker",
+    "url": "https://github.com/hotchpotch/jev-reranker",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hr98w/jev-visual",
+    "url": "https://github.com/hr98w/jev-visual",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "huntedman/JevLint",
+    "url": "https://github.com/huntedman/JevLint",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "hyperspaceai/jevcache",
+    "url": "https://github.com/hyperspaceai/jevcache",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "HyunjunJeon/jev-judgment",
+    "url": "https://github.com/HyunjunJeon/jev-judgment",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "HyunjunJeon/pi-quiet-ask",
+    "url": "https://github.com/HyunjunJeon/pi-quiet-ask",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "i2cjak/RISC-jeV",
+    "url": "https://github.com/i2cjak/RISC-jeV",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "iammrduncan/typesafe-ai-benchmark",
+    "url": "https://github.com/iammrduncan/typesafe-ai-benchmark",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "iammusham/jev-snake",
+    "url": "https://github.com/iammusham/jev-snake",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "iamvatsalpatel/tiershift",
+    "url": "https://github.com/iamvatsalpatel/tiershift",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ibrahemid/git-jev-stage",
+    "url": "https://github.com/ibrahemid/git-jev-stage",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ibrahemid/jevprune",
+    "url": "https://github.com/ibrahemid/jevprune",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Icohen007/jev-play-ping-pong",
+    "url": "https://github.com/Icohen007/jev-play-ping-pong",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "iefnaf/pi-jev",
+    "url": "https://github.com/iefnaf/pi-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ikermoel/open-alternative-jev",
+    "url": "https://github.com/ikermoel/open-alternative-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ilkerulusoy/pi-jev-compact",
+    "url": "https://github.com/ilkerulusoy/pi-jev-compact",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ilyamk/jev-gmail-ai-spam-filter-and-labeling",
+    "url": "https://github.com/ilyamk/jev-gmail-ai-spam-filter-and-labeling",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "imMamdouhaboammar/fable-jev",
+    "url": "https://github.com/imMamdouhaboammar/fable-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "inanna-malick/jev-dsl",
+    "url": "https://github.com/inanna-malick/jev-dsl",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "innocentdiaz/s1_ruby",
+    "url": "https://github.com/innocentdiaz/s1_ruby",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "InsaneArts/typesafe-sdk-swift",
+    "url": "https://github.com/InsaneArts/typesafe-sdk-swift",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ishantanu/jevmetrics",
+    "url": "https://github.com/ishantanu/jevmetrics",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "islee23520/omo-jevlike-router",
+    "url": "https://github.com/islee23520/omo-jevlike-router",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ItisShikhar/gg-friggin-ez",
+    "url": "https://github.com/ItisShikhar/gg-friggin-ez",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "itsmostafa/typesafe-mcp",
+    "url": "https://github.com/itsmostafa/typesafe-mcp",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Jackalope-Dev/jackalope",
+    "url": "https://github.com/Jackalope-Dev/jackalope",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JackZeng/Jev_apps",
+    "url": "https://github.com/JackZeng/Jev_apps",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JacobLinCool/jev-paper-judge",
+    "url": "https://github.com/JacobLinCool/jev-paper-judge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JacquesGariepy/ORIGIN-CIVILIZATION",
+    "url": "https://github.com/JacquesGariepy/ORIGIN-CIVILIZATION",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jaibhasin/jev-yt-time-saver",
+    "url": "https://github.com/jaibhasin/jev-yt-time-saver",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jamesward/zio-typesafe-ai",
+    "url": "https://github.com/jamesward/zio-typesafe-ai",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jammaru/jev-lab",
+    "url": "https://github.com/jammaru/jev-lab",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JanOstrowka/typesafe-assist",
+    "url": "https://github.com/JanOstrowka/typesafe-assist",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jaredpalmer/kev",
+    "url": "https://github.com/jaredpalmer/kev",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jarrodwatts/jev-trader",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JedimEmO/typesafe-client",
+    "url": "https://github.com/JedimEmO/typesafe-client",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jeffloo886/jev-notion",
+    "url": "https://github.com/jeffloo886/jev-notion",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jekozyra/pi-typesafe-router",
+    "url": "https://github.com/jekozyra/pi-typesafe-router",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jerryfane/omp-jev-compaction",
+    "url": "https://github.com/jerryfane/omp-jev-compaction",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jerryjliu/docjev",
+    "url": "https://github.com/jerryjliu/docjev",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jesset/pi-verdict",
+    "url": "https://github.com/jesset/pi-verdict",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jexp/neo4jev",
+    "url": "https://github.com/jexp/neo4jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jgridifier/jev-research-eval",
+    "url": "https://github.com/jgridifier/jev-research-eval",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jiawei686/jev-ultrafast-mcp",
+    "url": "https://github.com/jiawei686/jev-ultrafast-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jkudish/jev-browser",
+    "url": "https://github.com/jkudish/jev-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jkudish/jev-mcp",
+    "url": "https://github.com/jkudish/jev-mcp",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jmanhype/jev-dspy-lab",
+    "url": "https://github.com/jmanhype/jev-dspy-lab",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "joelhooks/pi-fast-jev-compaction",
+    "url": "https://github.com/joelhooks/pi-fast-jev-compaction",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "joevidev/ui-generator-instinct-jev",
+    "url": "https://github.com/joevidev/ui-generator-instinct-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "johnhughes3/LegalForecastBench",
+    "url": "https://github.com/johnhughes3/LegalForecastBench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jomatsu/pi-jev-auto-mode",
+    "url": "https://github.com/jomatsu/pi-jev-auto-mode",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jomatsu/zod-jev",
+    "url": "https://github.com/jomatsu/zod-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jon-devlapaz/jev-me",
+    "url": "https://github.com/jon-devlapaz/jev-me",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JordiParraCrespo/typesafe-ai-trading-showcase",
+    "url": "https://github.com/JordiParraCrespo/typesafe-ai-trading-showcase",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "joshlarsen/jev-t-rex-runner",
+    "url": "https://github.com/joshlarsen/jev-t-rex-runner",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "joshmn/typesafe-sdk",
+    "url": "https://github.com/joshmn/typesafe-sdk",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "JoshuaSP/open-jev",
+    "url": "https://github.com/JoshuaSP/open-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jourdanlabs/assay-001",
+    "url": "https://github.com/jourdanlabs/assay-001",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jtsang4/jev-cli",
+    "url": "https://github.com/jtsang4/jev-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "juancamiloqhz/roverlab",
+    "url": "https://github.com/juancamiloqhz/roverlab",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "justinhe16/trade-jev",
+    "url": "https://github.com/justinhe16/trade-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jvsteiner/jevex",
+    "url": "https://github.com/jvsteiner/jevex",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jxucoder/mimicry",
+    "url": "https://github.com/jxucoder/mimicry",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "jyatesdotdev/jev-logtriage",
+    "url": "https://github.com/jyatesdotdev/jev-logtriage",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "KamilPostrozny/pi-fast-jev-compaction",
+    "url": "https://github.com/KamilPostrozny/pi-fast-jev-compaction",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "KamilPostrozny/pi-jev-code",
+    "url": "https://github.com/KamilPostrozny/pi-jev-code",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "karanb192/jev-architect",
+    "url": "https://github.com/karanb192/jev-architect",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kavehmz/typesafe-playground",
+    "url": "https://github.com/kavehmz/typesafe-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "keeltrace/hermes-jev",
+    "url": "https://github.com/keeltrace/hermes-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Kelbie/hunch",
+    "url": "https://github.com/Kelbie/hunch",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "keltokhy/jgrep",
+    "url": "https://github.com/keltokhy/jgrep",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "keltokhy/jlink",
+    "url": "https://github.com/keltokhy/jlink",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "keltokhy/jselect",
+    "url": "https://github.com/keltokhy/jselect",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "keltokhy/jsort",
+    "url": "https://github.com/keltokhy/jsort",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kerpopule/hermes-jev-skills",
+    "url": "https://github.com/kerpopule/hermes-jev-skills",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "KesavanKing/jev-browser",
+    "url": "https://github.com/KesavanKing/jev-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kesku/jev-freeform",
+    "url": "https://github.com/kesku/jev-freeform",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kevinbadi/jev-voice",
+    "url": "https://github.com/kevinbadi/jev-voice",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kevinpita/pi-jev-context",
+    "url": "https://github.com/kevinpita/pi-jev-context",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Kevthetech143/super-jev",
+    "url": "https://github.com/Kevthetech143/super-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "khordoo/jev-reflex-autonomy-lab",
+    "url": "https://github.com/khordoo/jev-reflex-autonomy-lab",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kierandotai/jev-scout",
+    "url": "https://github.com/kierandotai/jev-scout",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kieranklaassen/ruby_llm-typesafe",
+    "url": "https://github.com/kieranklaassen/ruby_llm-typesafe",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kikoncuo/jevfire",
+    "url": "https://github.com/kikoncuo/jevfire",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Kiln-AI/jev_jsonschema",
+    "url": "https://github.com/Kiln-AI/jev_jsonschema",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kitze/pagegrade",
+    "url": "https://github.com/kitze/pagegrade",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kitze/skillbox",
+    "url": "https://github.com/kitze/skillbox",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kitze/unclutter",
+    "url": "https://github.com/kitze/unclutter",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "komikat/jev-bfs",
+    "url": "https://github.com/komikat/jev-bfs",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "komikat/psearch",
+    "url": "https://github.com/komikat/psearch",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Koushik890/jev-firewall",
+    "url": "https://github.com/Koushik890/jev-firewall",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kraayenjon/awesome-jev",
+    "url": "https://github.com/kraayenjon/awesome-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "krw82/jev-playwright-mcp",
+    "url": "https://github.com/krw82/jev-playwright-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kshetrajna12/reflex",
+    "url": "https://github.com/kshetrajna12/reflex",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kuhung/understanding-jev",
+    "url": "https://github.com/kuhung/understanding-jev",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kunobi-ninja/kunobi-jev",
+    "url": "https://github.com/kunobi-ninja/kunobi-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Kushwho/jev-codes",
+    "url": "https://github.com/Kushwho/jev-codes",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kxzk/typesafe-jev-drone-demo",
+    "url": "https://github.com/kxzk/typesafe-jev-drone-demo",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "KyleKreuter/jev2048",
+    "url": "https://github.com/KyleKreuter/jev2048",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kylemclaren/jevql",
+    "url": "https://github.com/kylemclaren/jevql",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kyotofin/tax-doc-classifier",
+    "url": "https://github.com/kyotofin/tax-doc-classifier",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kyrylosyzonenko/jev-browse",
+    "url": "https://github.com/kyrylosyzonenko/jev-browse",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "kyu1204/jgrep",
+    "url": "https://github.com/kyu1204/jgrep",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lab-dados/jev-anotacao-sentencas",
+    "url": "https://github.com/lab-dados/jev-anotacao-sentencas",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lakeday-org/perch",
+    "url": "https://github.com/lakeday-org/perch",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lambertsj/beatjev",
+    "url": "https://github.com/lambertsj/beatjev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "langchain-ai/langchainjs",
+    "url": "https://github.com/langchain-ai/langchainjs",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "larguesa/jev-search",
+    "url": "https://github.com/larguesa/jev-search",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lbotinelly/jev-little-airways",
+    "url": "https://github.com/lbotinelly/jev-little-airways",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "leepokai/jev-guard",
+    "url": "https://github.com/leepokai/jev-guard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "legacybridge-tech/pi-typesafe-jev",
+    "url": "https://github.com/legacybridge-tech/pi-typesafe-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "leonaaardob/fast-dev-compaction",
+    "url": "https://github.com/leonaaardob/fast-dev-compaction",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lhemerly/mcts-agent",
+    "url": "https://github.com/lhemerly/mcts-agent",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Little-Planet-Labs/jev-playground",
+    "url": "https://github.com/Little-Planet-Labs/jev-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "logan-markewich/jeff",
+    "url": "https://github.com/logan-markewich/jeff",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "logicrw/awesome-jev-projects",
+    "url": "https://github.com/logicrw/awesome-jev-projects",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lomeshdutta/skill-router",
+    "url": "https://github.com/lomeshdutta/skill-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "luantak/is-malicious",
+    "url": "https://github.com/luantak/is-malicious",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lucianfialho/jev-model-router",
+    "url": "https://github.com/lucianfialho/jev-model-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lukaske/jev-doom-agent",
+    "url": "https://github.com/lukaske/jev-doom-agent",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "lukstei/slop-grader",
+    "url": "https://github.com/lukstei/slop-grader",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "MachineLearning-Nerd/jev-tetris",
+    "url": "https://github.com/MachineLearning-Nerd/jev-tetris",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "madeye/pi-jev",
+    "url": "https://github.com/madeye/pi-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mahlernim/jev-korean-benchmark",
+    "url": "https://github.com/mahlernim/jev-korean-benchmark",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "MahmoudAdelbghany/jev-browser",
+    "url": "https://github.com/MahmoudAdelbghany/jev-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "maker-KK/todo-jev",
+    "url": "https://github.com/maker-KK/todo-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "malDuffin/typesafe-3d-chess",
+    "url": "https://github.com/malDuffin/typesafe-3d-chess",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Mandrilsquad1441/jev-model-router",
+    "url": "https://github.com/Mandrilsquad1441/jev-model-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "manifoldor/xtags",
+    "url": "https://github.com/manifoldor/xtags",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Mapika/decider",
+    "url": "https://github.com/Mapika/decider",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "marcus/frost",
+    "url": "https://github.com/marcus/frost",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "MarissaFamularo/citation-verifier",
+    "url": "https://github.com/MarissaFamularo/citation-verifier",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "markfive-proto/typesafe-vs-deepseek",
+    "url": "https://github.com/markfive-proto/typesafe-vs-deepseek",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "markjaquith/typesafe-ai-playground",
+    "url": "https://github.com/markjaquith/typesafe-ai-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mateonunez/jod",
+    "url": "https://github.com/mateonunez/jod",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "matthewp/flue-jev-demo",
+    "url": "https://github.com/matthewp/flue-jev-demo",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mattn/sqlite3-jev",
+    "url": "https://github.com/mattn/sqlite3-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mattneel/typesafe",
+    "url": "https://github.com/mattneel/typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mattneel/typesafe.zig",
+    "url": "https://github.com/mattneel/typesafe.zig",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mblode/taste-lint",
+    "url": "https://github.com/mblode/taste-lint",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mejiasd3v/pi-jev-router",
+    "url": "https://github.com/mejiasd3v/pi-jev-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Menny1337/jev-lab",
+    "url": "https://github.com/Menny1337/jev-lab",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mgaitan/sqlite-jev",
+    "url": "https://github.com/mgaitan/sqlite-jev",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "milanboers/jev-plays-pokemon",
+    "url": "https://github.com/milanboers/jev-plays-pokemon",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "miniLV/Jev-Auto-Router",
+    "url": "https://github.com/miniLV/Jev-Auto-Router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "minorun365/jev-cloud-quiz",
+    "url": "https://github.com/minorun365/jev-cloud-quiz",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mintannn/jev-asks-until-sure",
+    "url": "https://github.com/mintannn/jev-asks-until-sure",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Mintzs/jevify",
+    "url": "https://github.com/Mintzs/jevify",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mithalouni/system-one-open",
+    "url": "https://github.com/mithalouni/system-one-open",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mizchi/jev-gomoku",
+    "url": "https://github.com/mizchi/jev-gomoku",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mizorewww/laya-mlx",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mizzlelover/jev-hub",
+    "url": "https://github.com/mizzlelover/jev-hub",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mkeco/Cerebellum-2B",
+    "url": "https://github.com/mkeco/Cerebellum-2B",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mkotlikov/jev-grug",
+    "url": "https://github.com/mkotlikov/jev-grug",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "moezubair/check-risk",
+    "url": "https://github.com/moezubair/check-risk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "molis-ai/jev-workbench",
+    "url": "https://github.com/molis-ai/jev-workbench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "MongLong0214/jev-gate",
+    "url": "https://github.com/MongLong0214/jev-gate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "monteduro/killmyidea",
+    "url": "https://github.com/monteduro/killmyidea",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "moritzkremb/jev-voice-browser",
+    "url": "https://github.com/moritzkremb/jev-voice-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "MrJev/awesome-jev",
+    "url": "https://github.com/MrJev/awesome-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mrnugget/jev-shell-history",
+    "url": "https://github.com/mrnugget/jev-shell-history",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mstf-svndk/jev-windows-voice",
+    "url": "https://github.com/mstf-svndk/jev-windows-voice",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "muhammedilyasy/jev-mail",
+    "url": "https://github.com/muhammedilyasy/jev-mail",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "myokoym/misereru-slide-jev",
+    "url": "https://github.com/myokoym/misereru-slide-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "mzainzulifqar/jev-php-sdk",
+    "url": "https://github.com/mzainzulifqar/jev-php-sdk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "n-yokomachi/jev-dev",
+    "url": "https://github.com/n-yokomachi/jev-dev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "n3ndor/n8n-nodes-typesafe-jev",
+    "url": "https://github.com/n3ndor/n8n-nodes-typesafe-jev",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Nainish-Rai/jev-frontend-qa",
+    "url": "https://github.com/Nainish-Rai/jev-frontend-qa",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NandhaKishorM/laya",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "narulaskaran/jev-data-questions",
+    "url": "https://github.com/narulaskaran/jev-data-questions",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Nasrallah-AL/jev-cli",
+    "url": "https://github.com/Nasrallah-AL/jev-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/cartshield",
+    "url": "https://github.com/ndolinschi/cartshield",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/harnessjudge",
+    "url": "https://github.com/ndolinschi/harnessjudge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/hiresignal",
+    "url": "https://github.com/ndolinschi/hiresignal",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/jevplay",
+    "url": "https://github.com/ndolinschi/jevplay",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/lanebreak",
+    "url": "https://github.com/ndolinschi/lanebreak",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/mcpmatch",
+    "url": "https://github.com/ndolinschi/mcpmatch",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/pulselane",
+    "url": "https://github.com/ndolinschi/pulselane",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/spendbrake",
+    "url": "https://github.com/ndolinschi/spendbrake",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/swarmrouter",
+    "url": "https://github.com/ndolinschi/swarmrouter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/toolgate",
+    "url": "https://github.com/ndolinschi/toolgate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ndolinschi/trustgate",
+    "url": "https://github.com/ndolinschi/trustgate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "neddes/sloppy-jevs-extension",
+    "url": "https://github.com/neddes/sloppy-jevs-extension",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nekuda-ai/WindTunnel",
+    "url": "https://github.com/nekuda-ai/WindTunnel",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "newuser7171/antivirus",
+    "url": "https://github.com/newuser7171/antivirus",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nexibeo/jev-cookbook",
+    "url": "https://github.com/nexibeo/jev-cookbook",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nexibeo/jev-organize",
+    "url": "https://github.com/nexibeo/jev-organize",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NiazMorshed2007/jev-review",
+    "url": "https://github.com/NiazMorshed2007/jev-review",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nican2018/shade-arena-jev-monitor",
+    "url": "https://github.com/nican2018/shade-arena-jev-monitor",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nickthompson480/typesafe-ai-playground",
+    "url": "https://github.com/nickthompson480/typesafe-ai-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nidhi-singh02/agent-router",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NobleSpartan6/otto",
+    "url": "https://github.com/NobleSpartan6/otto",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "noelzappy/tripwire",
+    "url": "https://github.com/noelzappy/tripwire",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Nolane-x/JEV-language",
+    "url": "https://github.com/Nolane-x/JEV-language",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "noplan-inc/limpet",
+    "url": "https://github.com/noplan-inc/limpet",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NorbertBodziony/guard-jev",
+    "url": "https://github.com/NorbertBodziony/guard-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "nshkrdotcom/typesafe_sdk",
+    "url": "https://github.com/nshkrdotcom/typesafe_sdk",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NSStudent/JevSwiftSDK",
+    "url": "https://github.com/NSStudent/JevSwiftSDK",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ntedvs/commentcop",
+    "url": "https://github.com/ntedvs/commentcop",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "NullPo-jp/PocketJev",
+    "url": "https://github.com/NullPo-jp/PocketJev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "numerous-com/dgp",
+    "url": "https://github.com/numerous-com/dgp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Nyarlathoteppppp/pi-heed",
+    "url": "https://github.com/Nyarlathoteppppp/pi-heed",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "obie/ruby_decision_model",
+    "url": "https://github.com/obie/ruby_decision_model",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ohmyjiro/jev-judge",
+    "url": "https://github.com/ohmyjiro/jev-judge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "olanotolu/jevbetter",
+    "url": "https://github.com/olanotolu/jevbetter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Olti1947/jev-java",
+    "url": "https://github.com/Olti1947/jev-java",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "omkarghugarkar007/actiongate-jev",
+    "url": "https://github.com/omkarghugarkar007/actiongate-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "omni-/ask-jev",
+    "url": "https://github.com/omni-/ask-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "OmniJev/awesome-jev",
+    "url": "https://github.com/OmniJev/awesome-jev",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "OmniJev/awesome-jev-gallery",
+    "url": "https://github.com/OmniJev/awesome-jev-gallery",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "OmniJev/PlayJev",
+    "url": "https://github.com/OmniJev/PlayJev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "onionminionops-beep/pdoom-protocol",
+    "url": "https://github.com/onionminionops-beep/pdoom-protocol",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "opaielsheikh/ai-elo-ranker",
+    "url": "https://github.com/opaielsheikh/ai-elo-ranker",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "opaielsheikh/ps2-ai-agent",
+    "url": "https://github.com/opaielsheikh/ps2-ai-agent",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "opaielsheikh/typesafe-migration-guard",
+    "url": "https://github.com/opaielsheikh/typesafe-migration-guard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "OpenByteInc/QuantDinger",
+    "url": "https://github.com/OpenByteInc/QuantDinger",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "oso95/x-scanner",
+    "url": "https://github.com/oso95/x-scanner",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "pambrose/jev4k",
+    "url": "https://github.com/pambrose/jev4k",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Para-FR/casse-brique-typesafe",
+    "url": "https://github.com/Para-FR/casse-brique-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "parth-kp/jev-mail-classifier",
+    "url": "https://github.com/parth-kp/jev-mail-classifier",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "paulsmith/computer-use-jev",
+    "url": "https://github.com/paulsmith/computer-use-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "pekth/draftpulse",
+    "url": "https://github.com/pekth/draftpulse",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "phureewat29/got-jev",
+    "url": "https://github.com/phureewat29/got-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "phureewat29/jev-got",
+    "url": "https://github.com/phureewat29/jev-got",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "phyous/tsai-civ2",
+    "url": "https://github.com/phyous/tsai-civ2",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "phyous/tsai-sc",
+    "url": "https://github.com/phyous/tsai-sc",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "PistachioAIHQ/jev-synergy-screening",
+    "url": "https://github.com/PistachioAIHQ/jev-synergy-screening",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "pithings/advocaat",
+    "url": "https://github.com/pithings/advocaat",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Premo-Cloud/typesafe-sdk-java",
+    "url": "https://github.com/Premo-Cloud/typesafe-sdk-java",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Prescott-Data/jarviscore-framework",
+    "url": "https://github.com/Prescott-Data/jarviscore-framework",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "prismhq/jev-router",
+    "url": "https://github.com/prismhq/jev-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "pydantic/pydantic-ai",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "qddegtya/qualm",
+    "url": "https://github.com/qddegtya/qualm",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "qkal/Canny",
+    "url": "https://github.com/qkal/Canny",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "r-ms/mini-jev",
+    "url": "https://github.com/r-ms/mini-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "r33drichards/laya-vision",
+    "url": "https://github.com/r33drichards/laya-vision",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RafalWilinski/vibecheck",
+    "url": "https://github.com/RafalWilinski/vibecheck",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "raihankhan-rk/diffjury",
+    "url": "https://github.com/raihankhan-rk/diffjury",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "raihankhan-rk/jevarena",
+    "url": "https://github.com/raihankhan-rk/jevarena",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rainbowpuffpuff/jev-builder-loop",
+    "url": "https://github.com/rainbowpuffpuff/jev-builder-loop",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rajdhakad9826/jev-router",
+    "url": "https://github.com/rajdhakad9826/jev-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rajivkuriakose/typesafe-jev-examples",
+    "url": "https://github.com/rajivkuriakose/typesafe-jev-examples",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ranjan2829/AskJev",
+    "url": "https://github.com/ranjan2829/AskJev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rashedInt32/jev-gates",
+    "url": "https://github.com/rashedInt32/jev-gates",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rashedInt32/jev-lens.nvim",
+    "url": "https://github.com/rashedInt32/jev-lens.nvim",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rashedInt32/jev-mcp",
+    "url": "https://github.com/rashedInt32/jev-mcp",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rashedInt32/jev-reach",
+    "url": "https://github.com/rashedInt32/jev-reach",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Ray-Hughes/jevalyn",
+    "url": "https://github.com/Ray-Hughes/jevalyn",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "razorback16/openjev",
+    "url": "https://github.com/razorback16/openjev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rbalch/typesafeai-review",
+    "url": "https://github.com/rbalch/typesafeai-review",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rchovatiya88/cyber-breach-jev",
+    "url": "https://github.com/rchovatiya88/cyber-breach-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "reachjalil/jev-tree",
+    "url": "https://github.com/reachjalil/jev-tree",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "reachjalil/jevlogs",
+    "url": "https://github.com/reachjalil/jevlogs",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "realZachi/jevtest",
+    "url": "https://github.com/realZachi/jevtest",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "realZachi/pg-jev",
+    "url": "https://github.com/realZachi/pg-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "realZachi/typesafe-adblock",
+    "url": "https://github.com/realZachi/typesafe-adblock",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Red5d/jev-cvss",
+    "url": "https://github.com/Red5d/jev-cvss",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "replynodes/jev-web-analyzer",
+    "url": "https://github.com/replynodes/jev-web-analyzer",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "reycn/smart-switch",
+    "url": "https://github.com/reycn/smart-switch",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rhighs/jev-code",
+    "url": "https://github.com/rhighs/jev-code",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RINNECODER/jev-behavior-study",
+    "url": "https://github.com/RINNECODER/jev-behavior-study",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Ripwords/agent-gate-loop",
+    "url": "https://github.com/Ripwords/agent-gate-loop",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RiskAverseTech/toolgate",
+    "url": "https://github.com/RiskAverseTech/toolgate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "romaluev/jev-ego",
+    "url": "https://github.com/romaluev/jev-ego",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RomanSlack/jev-drone",
+    "url": "https://github.com/RomanSlack/jev-drone",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rorshopping/jev-on-a-laptop",
+    "url": "https://github.com/rorshopping/jev-on-a-laptop",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RubyBrewsday/jevcumber",
+    "url": "https://github.com/RubyBrewsday/jevcumber",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "runta-dev/jot",
+    "url": "https://github.com/runta-dev/jot",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rupeshpoojary9/awesome-open-system-one",
+    "url": "https://github.com/rupeshpoojary9/awesome-open-system-one",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "rupeshpoojary9/poorjev",
+    "url": "https://github.com/rupeshpoojary9/poorjev",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "RyanKung/rotom",
+    "url": "https://github.com/RyanKung/rotom",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ryanwaits/secondlayer",
+    "url": "https://github.com/ryanwaits/secondlayer",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "safzanpirani/pong-jev",
+    "url": "https://github.com/safzanpirani/pong-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "saibimajdi/typesafe-dotnet-sdk",
+    "url": "https://github.com/saibimajdi/typesafe-dotnet-sdk",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "saibimajdi/typesafeai-dotnet-sdk",
+    "url": "https://github.com/saibimajdi/typesafeai-dotnet-sdk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "samdotmak/jev-recall",
+    "url": "https://github.com/samdotmak/jev-recall",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "samtay32/jev-system-architect",
+    "url": "https://github.com/samtay32/jev-system-architect",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "SamuelSacco/jev-exploration",
+    "url": "https://github.com/SamuelSacco/jev-exploration",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "SamurAIGPT/llm-wiki-agent",
+    "url": "https://github.com/SamurAIGPT/llm-wiki-agent",
+    "discovered_in": [
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "santos-sanz/jev-audio-beeper",
+    "url": "https://github.com/santos-sanz/jev-audio-beeper",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "scale-venture-partners/riff",
+    "url": "https://github.com/scale-venture-partners/riff",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "scienthoon/jev-ood-calibration",
+    "url": "https://github.com/scienthoon/jev-ood-calibration",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "scienthoon/luce",
+    "url": "https://github.com/scienthoon/luce",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sgoedecke/system-one",
+    "url": "https://github.com/sgoedecke/system-one",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shaharia-lab/jev-cli",
+    "url": "https://github.com/shaharia-lab/jev-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shamazharikh/qwen-rlcd",
+    "url": "https://github.com/shamazharikh/qwen-rlcd",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shantanugoel/ask-jev-skill",
+    "url": "https://github.com/shantanugoel/ask-jev-skill",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shantanugoel/jev-games",
+    "url": "https://github.com/shantanugoel/jev-games",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shantanugoel/mario-jev",
+    "url": "https://github.com/shantanugoel/mario-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sharziki/semdecide",
+    "url": "https://github.com/sharziki/semdecide",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shibadogcap/kyotsu-ai-bench",
+    "url": "https://github.com/shibadogcap/kyotsu-ai-bench",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Shifros/Search-Function-Test",
+    "url": "https://github.com/Shifros/Search-Function-Test",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shiftynick/jev-axi",
+    "url": "https://github.com/shiftynick/jev-axi",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shimo4228/jev-skill-router",
+    "url": "https://github.com/shimo4228/jev-skill-router",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shinpr/jev-reranker",
+    "url": "https://github.com/shinpr/jev-reranker",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shitianfang/jev-use",
+    "url": "https://github.com/shitianfang/jev-use",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shitianfang/wakegate",
+    "url": "https://github.com/shitianfang/wakegate",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "shivam2003-dev/typesafe-triage-guard",
+    "url": "https://github.com/shivam2003-dev/typesafe-triage-guard",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ShivamPansuriya/jev-skill-gate",
+    "url": "https://github.com/ShivamPansuriya/jev-skill-gate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Shogo-nfrealmusic/jev-eval",
+    "url": "https://github.com/Shogo-nfrealmusic/jev-eval",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ShuhanSun/jev-oas-sentinel",
+    "url": "https://github.com/ShuhanSun/jev-oas-sentinel",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ShupingR/scam-shield",
+    "url": "https://github.com/ShupingR/scam-shield",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "siddicky/omp-typesafe",
+    "url": "https://github.com/siddicky/omp-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sightmap/jev-turbo",
+    "url": "https://github.com/sightmap/jev-turbo",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Silbercue/public-browser",
+    "url": "https://github.com/Silbercue/public-browser",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "silverstein/minutes",
+    "url": "https://github.com/silverstein/minutes",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "simota/tenbin",
+    "url": "https://github.com/simota/tenbin",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "simxnherrera/jevr",
+    "url": "https://github.com/simxnherrera/jevr",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "siroccomask/snake-jev",
+    "url": "https://github.com/siroccomask/snake-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "skeptrunedev/jev-recruiter",
+    "url": "https://github.com/skeptrunedev/jev-recruiter",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Skyvern-AI/jevscape",
+    "url": "https://github.com/Skyvern-AI/jevscape",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "smasato/jev-jp-address",
+    "url": "https://github.com/smasato/jev-jp-address",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "smithersai/smithers",
+    "url": "https://github.com/smithersai/smithers",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "socai-io/jev-social",
+    "url": "https://github.com/socai-io/jev-social",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "soderlind/ai-provider-for-jev",
+    "url": "https://github.com/soderlind/ai-provider-for-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sorrycc/typesafe-snake",
+    "url": "https://github.com/sorrycc/typesafe-snake",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sosopop/jev_stock",
+    "url": "https://github.com/sosopop/jev_stock",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "SoundBlaster/Jev4Mellea",
+    "url": "https://github.com/SoundBlaster/Jev4Mellea",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "spoonnotfound/soupbase",
+    "url": "https://github.com/spoonnotfound/soupbase",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sriganesh/jevibe-check",
+    "url": "https://github.com/sriganesh/jevibe-check",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "standardagents/jevpilot",
+    "url": "https://github.com/standardagents/jevpilot",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "stephanj/parallelConstraintDecoding",
+    "url": "https://github.com/stephanj/parallelConstraintDecoding",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "STRML/omp-jevens-classifier",
+    "url": "https://github.com/STRML/omp-jevens-classifier",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Stumble/jev-go",
+    "url": "https://github.com/Stumble/jev-go",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sufianetaouil/every",
+    "url": "https://github.com/sufianetaouil/every",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "superagents-lab/jev-search",
+    "url": "https://github.com/superagents-lab/jev-search",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "supercorp-ai/supercov",
+    "url": "https://github.com/supercorp-ai/supercov",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sutro-sh/jev-align",
+    "url": "https://github.com/sutro-sh/jev-align",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sypherin/jev-trace-classifier",
+    "url": "https://github.com/sypherin/jev-trace-classifier",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "sysadarsh/zerosweep",
+    "url": "https://github.com/sysadarsh/zerosweep",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tacticocc/Jevbridge",
+    "url": "https://github.com/tacticocc/Jevbridge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tamaratran/fast-jev-compaction",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tamaratran/jev-pruner",
+    "url": "https://github.com/tamaratran/jev-pruner",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TanayPadar/gpt-vs-jev",
+    "url": "https://github.com/TanayPadar/gpt-vs-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Tangerg/typesafe-sdk-go",
+    "url": "https://github.com/Tangerg/typesafe-sdk-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TanStack/ai",
+    "url": "https://github.com/TanStack/ai",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TarunTomar122/jev-askable-arm",
+    "url": "https://github.com/TarunTomar122/jev-askable-arm",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "terryds/jevplayground",
+    "url": "https://github.com/terryds/jevplayground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "teyhouse/jev-secret-detection",
+    "url": "https://github.com/teyhouse/jev-secret-detection",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TheGali/terrarium",
+    "url": "https://github.com/TheGali/terrarium",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "thelau/jev-tetris",
+    "url": "https://github.com/thelau/jev-tetris",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TheoLeeCJ/openjev",
+    "url": "https://github.com/TheoLeeCJ/openjev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TheoLeeCJ/SemIf",
+    "url": "https://github.com/TheoLeeCJ/SemIf",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TheoOliveira/pi-jev",
+    "url": "https://github.com/TheoOliveira/pi-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "thiago-ss/jev-review",
+    "url": "https://github.com/thiago-ss/jev-review",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ThinkyMiner/Winnow",
+    "url": "https://github.com/ThinkyMiner/Winnow",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "thodoh1/FinancialPredictionJev",
+    "url": "https://github.com/thodoh1/FinancialPredictionJev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TholeG/typesafe-chess",
+    "url": "https://github.com/TholeG/typesafe-chess",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "thruwire/foreman",
+    "url": "https://github.com/thruwire/foreman",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TianyuCodings/NanoJev",
+    "url": "https://github.com/TianyuCodings/NanoJev",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ticofab/scala-jev-sdk",
+    "url": "https://github.com/ticofab/scala-jev-sdk",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tinyhumansai/tinyjevclient",
+    "url": "https://github.com/tinyhumansai/tinyjevclient",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TKY-27/JevSlop",
+    "url": "https://github.com/TKY-27/JevSlop",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TokenTrim/jev-agent-failure-benchmark",
+    "url": "https://github.com/TokenTrim/jev-agent-failure-benchmark",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TokenTrim/jev-routing-experiment",
+    "url": "https://github.com/TokenTrim/jev-routing-experiment",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tontoko/jev-browser",
+    "url": "https://github.com/tontoko/jev-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tonyzdev/pijev",
+    "url": "https://github.com/tonyzdev/pijev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "torumitsutake/jev-page-verdict",
+    "url": "https://github.com/torumitsutake/jev-page-verdict",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tpaulshippy/shady-town",
+    "url": "https://github.com/tpaulshippy/shady-town",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TrainLCD/Functions",
+    "url": "https://github.com/TrainLCD/Functions",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "trophee-bot/typesafe-oracles",
+    "url": "https://github.com/trophee-bot/typesafe-oracles",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "trungdq88/jev-tetris",
+    "url": "https://github.com/trungdq88/jev-tetris",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "trungdq88/youtube-sponsor-detection",
+    "url": "https://github.com/trungdq88/youtube-sponsor-detection",
+    "discovered_in": [
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tryaksh/jev-pick-and-place-study",
+    "url": "https://github.com/tryaksh/jev-pick-and-place-study",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tumf/jev-cli",
+    "url": "https://github.com/tumf/jev-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "twilwa/pi-typesafe",
+    "url": "https://github.com/twilwa/pi-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Twister915/typesafe-ai",
+    "url": "https://github.com/Twister915/typesafe-ai",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tyler-dot-earth/patdown",
+    "url": "https://github.com/tyler-dot-earth/patdown",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tylergibbs1/sift",
+    "url": "https://github.com/tylergibbs1/sift",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tylerjharden/ailerix",
+    "url": "https://github.com/tylerjharden/ailerix",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "tylerjharden/harden-jev-decides",
+    "url": "https://github.com/tylerjharden/harden-jev-decides",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TypeAR-AI/TypeAR",
+    "url": "https://github.com/TypeAR-AI/TypeAR",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "typesafe-ai/skills",
+    "url": "https://github.com/typesafe-ai/skills",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "typesafe-ai/system-one-adapter-python",
+    "url": "https://github.com/typesafe-ai/system-one-adapter-python",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "typesafe-ai/typesafe-sdk-js",
+    "url": "https://github.com/typesafe-ai/typesafe-sdk-js",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "typesafe-ai/typesafe-sdk-python",
+    "url": "https://github.com/typesafe-ai/typesafe-sdk-python",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TypeSafeAI/clarity-judge",
+    "url": "https://github.com/TypeSafeAI/clarity-judge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TypeSafeAI/typesafe-playground",
+    "url": "https://github.com/TypeSafeAI/typesafe-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "TypeSafeAI/typesafe-ui",
+    "url": "https://github.com/TypeSafeAI/typesafe-ui",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "typesend/typesafe_ai",
+    "url": "https://github.com/typesend/typesafe_ai",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "uehaj/jev-semgrep",
+    "url": "https://github.com/uehaj/jev-semgrep",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ufec/jev-block-android-ad",
+    "url": "https://github.com/ufec/jev-block-android-ad",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "unicodeveloper/jevocks",
+    "url": "https://github.com/unicodeveloper/jevocks",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "unimtx/typesafe-sdk-go",
+    "url": "https://github.com/unimtx/typesafe-sdk-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "us/jev-local",
+    "url": "https://github.com/us/jev-local",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "usenotra/notra",
+    "url": "https://github.com/usenotra/notra",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "useopencompany/opencompany",
+    "url": "https://github.com/useopencompany/opencompany",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "ussyverse/hermes-jev-router",
+    "url": "https://github.com/ussyverse/hermes-jev-router",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "utk2103/jev-studio",
+    "url": "https://github.com/utk2103/jev-studio",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "v-modal/awesome-jev-tools",
+    "url": "https://github.com/v-modal/awesome-jev-tools",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/awesome-jev-typesafe",
+    "url": "https://github.com/valentynkit/awesome-jev-typesafe",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/jev-belay",
+    "url": "https://github.com/valentynkit/jev-belay",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/jev-commit",
+    "url": "https://github.com/valentynkit/jev-commit",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/jev-plays-pokemon-red",
+    "url": "https://github.com/valentynkit/jev-plays-pokemon-red",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/jev-skip",
+    "url": "https://github.com/valentynkit/jev-skip",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valentynkit/jev.nvim",
+    "url": "https://github.com/valentynkit/jev.nvim",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valksor/typesafe-sdk-go",
+    "url": "https://github.com/valksor/typesafe-sdk-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "valksor/typesafe-sdk-php",
+    "url": "https://github.com/valksor/typesafe-sdk-php",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vclic/smoking-extraction-benchmark",
+    "url": "https://github.com/vclic/smoking-extraction-benchmark",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vehas/thaiexam-jev-charts",
+    "url": "https://github.com/vehas/thaiexam-jev-charts",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vercel-labs/ai-cli",
+    "url": "https://github.com/vercel-labs/ai-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vercel-labs/ai-python",
+    "url": "https://github.com/vercel-labs/ai-python",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vercel-labs/fx",
+    "url": "https://github.com/vercel-labs/fx",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vercel-labs/json-render",
+    "url": "https://github.com/vercel-labs/json-render",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vercel/eve",
+    "url": "https://github.com/vercel/eve",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vibe-with-me-tools/n8n-nodes-jev",
+    "url": "https://github.com/vibe-with-me-tools/n8n-nodes-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Vicente-MD/jev-resilience",
+    "url": "https://github.com/Vicente-MD/jev-resilience",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vinilana/jev-browser",
+    "url": "https://github.com/vinilana/jev-browser",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vinilana/jev-eval-agent",
+    "url": "https://github.com/vinilana/jev-eval-agent",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vinilana/live-jev",
+    "url": "https://github.com/vinilana/live-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vinnie357/typesafe_sdk_ex",
+    "url": "https://github.com/vinnie357/typesafe_sdk_ex",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vinnylarouge/jevlike",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "VladyslavHontar/clear-head",
+    "url": "https://github.com/VladyslavHontar/clear-head",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vmendes90/jev-shield",
+    "url": "https://github.com/vmendes90/jev-shield",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "vnmoorthy/siege",
+    "url": "https://github.com/vnmoorthy/siege",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "WebGrga/btc-jev-signal",
+    "url": "https://github.com/WebGrga/btc-jev-signal",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "WebGrga/jev-board-lab",
+    "url": "https://github.com/WebGrga/jev-board-lab",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "WeSecureYou/Jev-test",
+    "url": "https://github.com/WeSecureYou/Jev-test",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wfzyx/von",
+    "url": "https://github.com/wfzyx/von",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "WiktorB2004/llama-index-jev",
+    "url": "https://github.com/WiktorB2004/llama-index-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "win4r/jev-skill-suggester",
+    "url": "https://github.com/win4r/jev-skill-suggester",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Wizhill05/typesafe-image-diffusion",
+    "url": "https://github.com/Wizhill05/typesafe-image-diffusion",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wondertwins/jev-benchmark",
+    "url": "https://github.com/wondertwins/jev-benchmark",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wundercorp/loki",
+    "url": "https://github.com/wundercorp/loki",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wustep/jev-playground",
+    "url": "https://github.com/wustep/jev-playground",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wuyoscar/jev-skill",
+    "url": "https://github.com/wuyoscar/jev-skill",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "wy-coliney/jev-browser-use",
+    "url": "https://github.com/wy-coliney/jev-browser-use",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "X0EF/jev_projects",
+    "url": "https://github.com/X0EF/jev_projects",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "XieChengYuan/jev-gomoku",
+    "url": "https://github.com/XieChengYuan/jev-gomoku",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "xingwudao/OpenJev",
+    "url": "https://github.com/xingwudao/OpenJev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "y0usaf/jev-lm",
+    "url": "https://github.com/y0usaf/jev-lm",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "y0usaf/pi-jev",
+    "url": "https://github.com/y0usaf/pi-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "y0usaf/typesafe-cli",
+    "url": "https://github.com/y0usaf/typesafe-cli",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yairshy/decido",
+    "url": "https://github.com/yairshy/decido",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Yasserbhb/Agent-JEV-Tetris",
+    "url": "https://github.com/Yasserbhb/Agent-JEV-Tetris",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "YehuiTang0316/jev-nlgrep",
+    "url": "https://github.com/YehuiTang0316/jev-nlgrep",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "yibie/awesome-jev",
+      "Anil-matcha/awesome-jev-by-typesafe"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yikangy873-gif/jev-desktop",
+    "url": "https://github.com/yikangy873-gif/jev-desktop",
+    "discovered_in": [
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Ying-Kai-Liao/jev-browser",
+    "url": "https://github.com/Ying-Kai-Liao/jev-browser",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Yinsongxu/LLM2Jev",
+    "url": "https://github.com/Yinsongxu/LLM2Jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yodablocks/jev-orderby-bench",
+    "url": "https://github.com/yodablocks/jev-orderby-bench",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yusukebe/hono-jev-router",
+    "url": "https://github.com/yusukebe/hono-jev-router",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yuyang2230/jev-agent-skill",
+    "url": "https://github.com/yuyang2230/jev-agent-skill",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "yzfly/awesome-jev-zh",
+    "url": "https://github.com/yzfly/awesome-jev-zh",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zadescoxp/Jev-Trades",
+    "url": "https://github.com/zadescoxp/Jev-Trades",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Zahrannnn/zcode-jev",
+    "url": "https://github.com/Zahrannnn/zcode-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "Zaious/jev-capability-atlas",
+    "url": "https://github.com/Zaious/jev-capability-atlas",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zebedelu/chess-vs-jev",
+    "url": "https://github.com/zebedelu/chess-vs-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zebedelu/sudoku-vs-jev",
+    "url": "https://github.com/zebedelu/sudoku-vs-jev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zefir1990/openjev-experiments",
+    "url": "https://github.com/zefir1990/openjev-experiments",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zeredy879/minojev",
+    "url": "https://github.com/zeredy879/minojev",
+    "discovered_in": [
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zhangxaochen/dsh-jev",
+    "url": "https://github.com/zhangxaochen/dsh-jev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zhengxuyu/litjev",
+    "url": "https://github.com/zhengxuyu/litjev",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zhihz/openjev",
+    "url": "https://github.com/zhihz/openjev",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zhirschtritt/typesafe-go",
+    "url": "https://github.com/zhirschtritt/typesafe-go",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zhuyansen/jev-search-rerank-eval",
+    "url": "https://github.com/zhuyansen/jev-search-rerank-eval",
+    "discovered_in": [
+      "AnotiaWang/awesome-jev",
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zsavage8/padflow-jev-evals",
+    "url": "https://github.com/zsavage8/padflow-jev-evals",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zsoXi/agent-handoff-gate",
+    "url": "https://github.com/zsoXi/agent-handoff-gate",
+    "discovered_in": [
+      "hellogumbo/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  },
+  {
+    "repository": "zwliJay/jev-forge",
+    "url": "https://github.com/zwliJay/jev-forge",
+    "discovered_in": [
+      "hellogumbo/awesome-jev",
+      "cobanov/awesome-jev",
+      "yibie/awesome-jev"
+    ],
+    "verification": "discovery_only"
+  }
+]
