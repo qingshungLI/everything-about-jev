@@ -7,8 +7,8 @@
 from __future__ import annotations
 
 import json
-import os
 import math
+import os
 
 from typesafe_sdk import Choice, SystemOneResponse, TypeSafeClient
 

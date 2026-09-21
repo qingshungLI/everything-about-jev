@@ -1,76 +1,76 @@
-# 快速开始
+# 快速开始：真实调用社区 API
 
-## 1. 获取访问权限
+[English](en/getting-started.md) · [首页](../README.md) · [接入方式对照](providers.md)
 
-[官方公告](https://x.com/typesafeai/status/2101786156572823624)于 2026-09-20 UTC 宣布取消 waitlist。前往 [console](https://console.typesafe.ai/settings/keys) 创建 Jev 密钥。GetXAPI 密钥不能调用 Jev。以 [TypeSafe 官方站点](https://typesafe.ai/) 的当前说明为准。部分用户也通过 Vercel AI Gateway、OpenRouter 等网关访问；网关会有自己的模型 ID、计费和限流规则。
+## 1. 环境与密钥
 
-## 2. 设置密钥
-
-```powershell
-$env:TYPESAFE_API_KEY = "your-key"
-```
-
-本仓库根目录的 `.env` 仅用于本地工具配置，已被 `.gitignore` 排除。不要复制或提交真实密钥。
-
-## 3. 发送第一个请求
-
-官方 Python SDK 会把 Choice / Score / Noul 映射为类型化对象。原始 HTTP 结构仍适合调试网关，但字段名、endpoint 和响应字段可能随 API 版本调整，生产代码请对照官方文档。
-
-```python
-from typesafe_sdk import Choice, TypeSafeClient
-
-with TypeSafeClient() as client:
-    response = client.system_one(
-        state={"document": "I was charged twice. Please fix this ASAP."},
-        questions={
-            "category": Choice(
-                instructions="What is this ticket about?",
-                criteria={"billing": None, "technical": None, "other": None},
-            ),
-        },
-    )
-
-answer = response.choices["category"]
-print(answer.choice, answer.confidence, answer.probabilities)
-```
-
-安装：`pip install typesafe-sdk`。JavaScript / TypeScript 使用 `npm install @typesafe-ai/sdk`，并调用 `client.systemOne({ state, questions })`。
+Python 3.10+。在仓库根目录执行：
 
 ```bash
-curl https://api.typesafe.ai/v1/systemone \
-  -H "Authorization: Bearer $TYPESAFE_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "jev-latest",
-    "state": {"message": "I was charged twice for my subscription."},
-    "questions": {
-      "queue": {
-        "type": "choice",
-        "instructions": "Which queue should handle this message?",
-        "criteria": {"billing": null, "technical": null, "other": null}
-      }
-    }
-  }'
+python -m venv .venv
 ```
 
-## 4. 把概率接入代码
+Windows PowerShell：
 
-```python
-winner = result.choices["queue"].choice
-probability = result.choices["queue"].confidence
-action = winner if probability >= 0.80 else "human_review"
-print(action)
+```powershell
+.venv/Scripts/python -m pip install -r requirements.txt
 ```
 
-阈值 `0.80` 只是示意。生产环境要用带标签的历史数据选择阈值，并记录模型版本、问题定义、state 摘要、完整分布和最终人工结果。
+macOS / Linux：
 
-## 常见错误
+```bash
+.venv/bin/python -m pip install -r requirements.txt
+```
 
-- 把 `Jev` 当聊天 API，请它“写一封邮件”。
-- 只保存最高选项，丢失平局和不确定性。
-- 把用户可控文本直接拼进问题规则，导致判定标准被输入覆盖。
-- 用精确计算替代普通代码。
-- 将社区的 OpenJev / Simple Jev / Jev-like 项目误称为 TypeSafe 官方模型。
+在根目录 `.env` 配置 `JEVAI_API_KEY=你的社区密钥`。密钥由 [jevai.org](https://www.jevai.org/docs) 对应服务签发。本轮工作区已有小写 `typesafe_api_key` 也兼容。不要把官方大写 `TYPESAFE_API_KEY` 当社区 key。
 
+## 2. 运行已经实测的案例
 
-[Read in English](en/getting-started.md)
+```powershell
+.venv/Scripts/python demos/python/quickstart.py
+```
+
+macOS/Linux 使用 `.venv/bin/python`。默认输入为一句中文界面命令，候选动作为深色模式、导出、帮助和未知。实际返回 `dark_mode`，完整记录见 [live-palette.json](../data/live-palette.json)。每次运行结果可能变化。
+
+```powershell
+.venv/Scripts/python demos/python/quickstart.py --case research
+```
+
+证据判断案例实际返回 `reject`，但 confidence 为 0.33；程序忠实显示不确定性，不将标签当最终事实。[结果](../data/live-research.json)。
+
+## 3. TypeScript
+
+Node.js 20+，同一个根目录 `.env`：
+
+```bash
+npm ci
+npm run check
+npm run demo:community
+```
+
+两种语言使用同一份 [案例输入](../demos/cases.json)。TypeScript 对 429 明确报错；Python 对 429 最多尝试四次，默认等待 5、10、15 秒，没有无限重试。
+
+## 4. 错误处理
+
+| 现象 | 含义 | 下一步 |
+| --- | --- | --- |
+| 缺少密钥 | 未找到社区变量或兼容名称 | 对照 `.env.example` |
+| HTTP 401/403 | 凭据或访问权限问题 | 确认密钥签发服务和端点一致 |
+| HTTP 429 | 本轮实际观察到的限流 | 稍后单独运行一个案例；不要并发重试 |
+| HTTP 200 但 code 非零 | 服务业务错误 | 程序明确失败，不当成功 |
+| 概率缺失或非数值 | 响应不符合示例预期 | 查看服务文档，不编造默认结果 |
+
+HTTP 429 没有带 Retry-After 时，Python 使用有上限的退避。网络请求设置连接/读取超时并禁止重定向。程序不打印认证头或 `.env` 内容。
+
+## 5. 官方直连
+
+需要官方 SDK 时阅读 [官方示例](official-sdk.md)，使用独立的 TypeSafe console key。本轮只完成它的 SDK 构造与离线检查，不宣称官方端点真实推理成功。社区响应不能直接当成 SDK 响应使用。
+
+## 6. 复现与测试
+
+```bash
+python -m unittest discover -s tests -v
+npm run check
+```
+
+[实测表](live-validation.md)把实际返回、失败、未测项分开；没有将合成数据成功解释为基准准确率。

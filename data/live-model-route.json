@@ -1,0 +1,64 @@
+[
+  {
+    "case": "model-route",
+    "title_zh": "把简单任务交给合适模型",
+    "title_en": "Route a task to the right model",
+    "provider": "jevai.org community API",
+    "endpoint": "/api/v1/decisions/model-route",
+    "observed_at": "2026-09-21T10:45:32.973634+00:00",
+    "elapsed_ms": 20947.7,
+    "http_status": 200,
+    "attempts": 3,
+    "input": {
+      "task": "Label a short support message as billing, technical or other. No prose output is required.",
+      "candidates": [
+        {
+          "id": "decision-model",
+          "description": "Fast typed classifier for fixed options",
+          "cost": "low",
+          "latency": "low"
+        },
+        {
+          "id": "writer-model",
+          "description": "Long-form explanation and creative writing",
+          "cost": "high",
+          "latency": "high"
+        }
+      ],
+      "priorities": [
+        "correct task fit",
+        "latency",
+        "cost"
+      ],
+      "stakes": "low"
+    },
+    "result": {
+      "answers": {
+        "selected": {
+          "type": "choice",
+          "choice": "decision-model",
+          "confidence": 1,
+          "probabilities": {
+            "decision-model": 1,
+            "writer-model": 0
+          }
+        },
+        "escalate": {
+          "type": "noul",
+          "noul": 0.12
+        }
+      },
+      "recommendation": "decision-model",
+      "decision": "decision-model",
+      "confidence": 1,
+      "probabilities": {
+        "decision-model": 1,
+        "writer-model": 0
+      },
+      "escalate": 0.12,
+      "guidance": "Use the selected approved model and preserve the stated constraints.",
+      "guidance_source": "jev_preset"
+    },
+    "note": "Synthetic input; live API output. Not an accuracy benchmark or SLA."
+  }
+]

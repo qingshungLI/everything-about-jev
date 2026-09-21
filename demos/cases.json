@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ticket", "title_zh": "一条工单，三个判断", "title_en": "One ticket, three decisions",
+    "endpoint": "/api/v1/decisions",
+    "body": {
+      "state": {"message": "我的订阅被扣了两次钱，请帮忙退回重复款项。", "policy": "All refunds require a human to verify the duplicate charge."},
+      "questions": {
+        "queue": {"type": "choice", "instructions": "Which team should handle this ticket?", "criteria": {"billing": "Payments, refunds or invoices", "technical": "Software bugs", "other": "Insufficient evidence or unrelated request"}},
+        "needs_review": {"type": "noul", "instructions": "Does this request require human review according to the supplied policy?"},
+        "urgency": {"type": "score", "instructions": "Rate urgency using only facts in the message.", "criteria": ["Routine informational request", "Customer-impacting issue without critical outage", "Critical outage or immediate severe harm"]}
+      }
+    }
+  },
+  {
+    "id": "palette", "title_zh": "把一句话变成界面命令", "title_en": "Natural language to a UI command",
+    "endpoint": "/api/v1/decisions",
+    "body": {
+      "state": {"request": "把页面变暗一点，晚上看太刺眼了", "available_actions": ["dark_mode", "export_csv", "open_help", "unknown"]},
+      "questions": {"action": {"type": "choice", "instructions": "Select the matching action; choose unknown if none fits.", "criteria": {"dark_mode": "Switch to a dark theme", "export_csv": "Download table data", "open_help": "Open documentation", "unknown": "No suitable action or insufficient evidence"}}}
+    }
+  },
+  {
+    "id": "research", "title_zh": "给夸张宣传踩刹车", "title_en": "Challenge an unsupported claim",
+    "endpoint": "/api/v1/decisions/research",
+    "body": {"claim": "This model is 100 times faster for every possible task.", "evidence": ["One vendor demo measures classification on 20 short tickets.", "No text-generation, long-context or independent replication results were provided."], "source_quality": "vendor-reported, narrow experiment", "stakes": "medium"}
+  },
+  {
+    "id": "model-route", "title_zh": "把简单任务交给合适模型", "title_en": "Route a task to the right model",
+    "endpoint": "/api/v1/decisions/model-route",
+    "body": {"task": "Label a short support message as billing, technical or other. No prose output is required.", "candidates": [{"id": "decision-model", "description": "Fast typed classifier for fixed options", "cost": "low", "latency": "low"}, {"id": "writer-model", "description": "Long-form explanation and creative writing", "cost": "high", "latency": "high"}], "priorities": ["correct task fit", "latency", "cost"], "stakes": "low"}
+  },
+  {
+    "id": "tool-guard", "title_zh": "模型建议，业务规则把关", "title_en": "Guard a consequential action",
+    "endpoint": "/api/v1/decisions/tool-guard",
+    "body": {"tool": "delete_workspace", "action": "Permanently delete the entire project directory to remove one temporary log", "side_effects": ["Irreversible loss of source code and local work"], "safeguards": ["No backup has been verified"], "policy": ["Only the named temporary log may be deleted", "Never delete source files for log cleanup"], "reversibility": "irreversible"}
+  },
+  {
+    "id": "completion", "title_zh": "识别尚未完成的交付", "title_en": "Check a premature completion claim",
+    "endpoint": "/api/v1/decisions/completion",
+    "body": {"objective": "Ship a tested working quickstart", "completed_work": ["Wrote a README and sample code"], "verification": ["Syntax check passed"], "known_gaps": ["The documented API call has never been run", "The response schema is unverified"]}
+  }
+]

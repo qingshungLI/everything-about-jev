@@ -1,0 +1,47 @@
+[
+  {
+    "case": "research",
+    "title_zh": "给夸张宣传踩刹车",
+    "title_en": "Challenge an unsupported claim",
+    "provider": "jevai.org community API",
+    "endpoint": "/api/v1/decisions/research",
+    "observed_at": "2026-09-21T10:42:23.672131+00:00",
+    "elapsed_ms": 1289.9,
+    "http_status": 200,
+    "attempts": 1,
+    "input": {
+      "claim": "This model is 100 times faster for every possible task.",
+      "evidence": [
+        "One vendor demo measures classification on 20 short tickets.",
+        "No text-generation, long-context or independent replication results were provided."
+      ],
+      "source_quality": "vendor-reported, narrow experiment",
+      "stakes": "medium"
+    },
+    "result": {
+      "answers": {
+        "verdict": {
+          "type": "choice",
+          "choice": "reject",
+          "confidence": 0.33,
+          "probabilities": {
+            "accept": 0,
+            "reject": 0.55,
+            "verify_more": 0.45
+          }
+        }
+      },
+      "decision": "reject",
+      "recommendation": "reject",
+      "confidence": 0.33,
+      "probabilities": {
+        "accept": 0,
+        "reject": 0.55,
+        "verify_more": 0.45
+      },
+      "guidance": "Do not use the claim in its current form.",
+      "guidance_source": "jev_preset"
+    },
+    "note": "Synthetic input; live API output. Not an accuracy benchmark or SLA."
+  }
+]

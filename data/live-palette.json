@@ -1,0 +1,52 @@
+[
+  {
+    "case": "palette",
+    "title_zh": "把一句话变成界面命令",
+    "title_en": "Natural language to a UI command",
+    "provider": "jevai.org community API",
+    "endpoint": "/api/v1/decisions",
+    "observed_at": "2026-09-21T10:40:52.030326+00:00",
+    "elapsed_ms": 1392.1,
+    "http_status": 200,
+    "attempts": 1,
+    "input": {
+      "state": {
+        "request": "把页面变暗一点，晚上看太刺眼了",
+        "available_actions": [
+          "dark_mode",
+          "export_csv",
+          "open_help",
+          "unknown"
+        ]
+      },
+      "questions": {
+        "action": {
+          "type": "choice",
+          "instructions": "Select the matching action; choose unknown if none fits.",
+          "criteria": {
+            "dark_mode": "Switch to a dark theme",
+            "export_csv": "Download table data",
+            "open_help": "Open documentation",
+            "unknown": "No suitable action or insufficient evidence"
+          }
+        }
+      }
+    },
+    "result": {
+      "answers": {
+        "action": {
+          "type": "choice",
+          "choice": "dark_mode",
+          "confidence": 1,
+          "probabilities": {
+            "export_csv": 0,
+            "open_help": 0,
+            "dark_mode": 1,
+            "unknown": 0
+          }
+        }
+      }
+    },
+    "note": "Synthetic input; live API output. Not an accuracy benchmark or SLA."
+  }
+]

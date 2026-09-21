@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="410" viewBox="0 0 1120 410" role="img" aria-label="Live Jev community API result: dark_mode">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10162d"/><stop offset="1" stop-color="#123c42"/></linearGradient></defs>
+<rect width="1120" height="410" rx="22" fill="url(#bg)"/>
+<g font-family="Arial,sans-serif">
+<text x="44" y="52" font-size="15" letter-spacing="3" fill="#5eead4">DECISION LAB / ACTUAL API RESPONSE</text>
+<text x="44" y="103" font-size="34" fill="#fff" font-weight="bold">Turn intent into a button.</text>
+<rect x="44" y="137" width="460" height="139" rx="14" fill="#18253d" stroke="#405674"/>
+<text x="66" y="169" fill="#9caec7" font-size="14">INPUT · SYNTHETIC CHINESE REQUEST</text>
+<text x="66" y="211" fill="#eef6ff" font-size="21">把页面变暗一点，晚上看太刺眼了</text>
+<text x="66" y="247" fill="#a9bdd3" font-size="15">“Make the page darker; it hurts my eyes at night.”</text>
+<text x="527" y="218" fill="#5eead4" font-size="32">→</text>
+<rect x="580" y="137" width="496" height="139" rx="14" fill="#122b35" stroke="#3e887e"/>
+<text x="604" y="169" fill="#5eead4" font-size="14">CHOICE · FIXED ACTION CATALOG</text>
+<text x="604" y="214" fill="#fff" font-size="34" font-weight="bold">dark_mode</text>
+<text x="604" y="250" fill="#b8d8df" font-size="16">HTTP 200 · 1,392 ms · confidence: 1</text>
+<text x="44" y="322" fill="#b8c8da" font-size="15">Observed via jevai.org community API · 2026-09-21 · One request, not a benchmark</text>
+<text x="44" y="352" fill="#b8c8da" font-size="15">Jev chooses the action. Your application decides whether to execute it.</text>
+<text x="44" y="380" fill="#7893ac" font-size="13">Recorded result: data/live-palette.json · No model version was returned by this service.</text>
+</g></svg>

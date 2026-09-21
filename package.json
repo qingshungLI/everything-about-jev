@@ -8,7 +8,8 @@
   },
   "scripts": {
     "check": "tsc --noEmit",
-    "demo": "tsx demos/typescript/jev-demo.ts"
+    "demo": "tsx demos/typescript/jev-demo.ts",
+    "demo:community": "tsx demos/typescript/community-demo.ts"
   },
   "repository": {
     "type": "git",

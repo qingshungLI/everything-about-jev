@@ -1,0 +1,93 @@
+[
+  {
+    "case": "tool-guard",
+    "title_zh": "模型建议，业务规则把关",
+    "title_en": "Guard a consequential action",
+    "provider": "jevai.org community API",
+    "endpoint": "/api/v1/decisions/tool-guard",
+    "observed_at": "2026-09-21T10:47:14.235295+00:00",
+    "elapsed_ms": 7236.1,
+    "http_status": 200,
+    "attempts": 2,
+    "input": {
+      "tool": "delete_workspace",
+      "action": "Permanently delete the entire project directory to remove one temporary log",
+      "side_effects": [
+        "Irreversible loss of source code and local work"
+      ],
+      "safeguards": [
+        "No backup has been verified"
+      ],
+      "policy": [
+        "Only the named temporary log may be deleted",
+        "Never delete source files for log cleanup"
+      ],
+      "reversibility": "irreversible"
+    },
+    "result": {
+      "answers": {
+        "decision": {
+          "type": "choice",
+          "choice": "deny",
+          "confidence": 1,
+          "probabilities": {
+            "allow": 0,
+            "review": 0,
+            "deny": 1,
+            "confirm": 0
+          }
+        },
+        "needs_confirmation": {
+          "type": "noul",
+          "noul": 0.98
+        },
+        "risk": {
+          "type": "score",
+          "score": 2.99,
+          "confidence": 0.99,
+          "legend": {
+            "0": "Low: small impact and easy to undo.",
+            "1": "Moderate: limited impact with a known rollback path.",
+            "2": "High: money, production, or incomplete verification.",
+            "3": "Critical: unresolved blocker; execution is not safe."
+          },
+          "probabilities": {
+            "0": 0,
+            "1": 0,
+            "2": 0.01,
+            "3": 0.99
+          }
+        }
+      },
+      "decision": "deny",
+      "confidence": 1,
+      "probabilities": {
+        "allow": 0,
+        "review": 0,
+        "deny": 1,
+        "confirm": 0
+      },
+      "needs_confirmation": 0.98,
+      "risk": {
+        "type": "score",
+        "score": 2.99,
+        "confidence": 0.99,
+        "legend": {
+          "0": "Low: small impact and easy to undo.",
+          "1": "Moderate: limited impact with a known rollback path.",
+          "2": "High: money, production, or incomplete verification.",
+          "3": "Critical: unresolved blocker; execution is not safe."
+        },
+        "probabilities": {
+          "0": 0,
+          "1": 0,
+          "2": 0.01,
+          "3": 0.99
+        }
+      },
+      "guidance": "Do not invoke the tool with the current plan.",
+      "guidance_source": "jev_preset"
+    },
+    "note": "Synthetic input; live API output. Not an accuracy benchmark or SLA."
+  }
+]
