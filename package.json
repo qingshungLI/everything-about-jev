@@ -9,7 +9,8 @@
   "scripts": {
     "check": "tsc --noEmit",
     "demo": "tsx demos/typescript/jev-demo.ts",
-    "demo:community": "tsx demos/typescript/community-demo.ts"
+    "demo:community": "tsx demos/typescript/community-demo.ts",
+    "demo:node": "node demos/node/tool-guard.mjs"
   },
   "repository": {
     "type": "git",

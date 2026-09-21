@@ -1,0 +1,51 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jev Decision Lab · Offline</title>
+  <style>
+    :root { color-scheme: dark; font: 16px/1.5 system-ui, sans-serif; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: radial-gradient(circle at 70% 10%, #134e4a, #0f172a 55%); color: #e2e8f0; }
+    main { width: min(900px, 92vw); padding: 36px; border: 1px solid #33516a; border-radius: 24px; background: #101c31e8; box-shadow: 0 24px 80px #0008; }
+    .eyebrow { color: #5eead4; letter-spacing: .18em; font-size: .78rem; }
+    h1 { font-size: clamp(2rem, 6vw, 4.4rem); line-height: 1; margin: 14px 0; }
+    .grid { display: grid; grid-template-columns: 1fr auto 1fr; gap: 18px; align-items: center; margin: 30px 0; }
+    .card { padding: 22px; border: 1px solid #38536b; border-radius: 16px; background: #14243b; }
+    .result { background: #123b3c; border-color: #2dd4bf; }
+    button { cursor: pointer; border: 0; border-radius: 10px; padding: 12px 18px; color: #082f49; background: #5eead4; font-weight: 700; }
+    code { color: #99f6e4; } small { color: #9fb5ca; }
+    @media (max-width: 700px) { .grid { grid-template-columns: 1fr; } .arrow { transform: rotate(90deg); } }
+  </style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">OFFLINE DECISION LAB · NO API KEY</div>
+  <h1>Jev chooses.<br>Your code acts.</h1>
+  <p>这是一个用于录屏的离线交互 demo。它模拟 <code>Choice</code>：用户意图进入有限动作目录，Jev 风格的判断结果再交给业务代码。</p>
+  <div class="grid">
+    <section class="card"><small>INPUT / 用户输入</small><h2 id="input">把页面变暗一点</h2><p>可用动作：深色模式、导出 CSV、打开帮助</p></section>
+    <div class="arrow" aria-hidden="true">→</div>
+    <section class="card result"><small>DECISION / 结构化决策</small><h2 id="output">dark_mode</h2><p>confidence <strong id="confidence">0.98</strong> · executed <strong>false</strong></p></section>
+  </div>
+  <button id="run">换一个输入</button>
+  <p><small>录屏建议：点击按钮展示三种有限候选；打开浏览器控制台可查看完整 probabilities。这个页面不会调用网络，也不会执行真实操作。</small></p>
+</main>
+<script>
+  const cases = [
+    ["把页面变暗一点", "dark_mode", .98],
+    ["下载这张表", "export_csv", .96],
+    ["我不知道怎么配置", "open_help", .91],
+    ["做一个不可逆的删除", "review", .87]
+  ];
+  let index = 0;
+  document.querySelector("#run").addEventListener("click", () => {
+    index = (index + 1) % cases.length;
+    const [input, output, confidence] = cases[index];
+    document.querySelector("#input").textContent = input;
+    document.querySelector("#output").textContent = output;
+    document.querySelector("#confidence").textContent = confidence;
+  });
+</script>
+</body>
+</html>

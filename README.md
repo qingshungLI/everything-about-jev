@@ -112,6 +112,7 @@ python demos/python/quickstart.py --case research
 代表性原帖：[Tùng Đinh：价值在快与便宜](https://x.com/tdinh_me/status/2100803719575343138) · [Tamara：即时压缩](https://x.com/tamarajtran/status/2100694549362553153) · [Theo：反对这个压缩方案](https://x.com/theo/status/2100762304862384257) · [Theo：认可 Jev，担心误用](https://x.com/theo/status/2101857305570721847) · [Karminski：迷宫失败案例](https://x.com/karminski3/status/2101941770003361893)。
 
 ➡️ **[阅读完整社区研究](docs/community-report.md)**：观点、反例、工程推论与采样偏差，避免把“帖子多”当成“观点已证明”。
+?? **????**?[Demo ???](demos/README.md) ? [????? Demo](demos/web/index.html) ? [Agent ??](docs/agent.md)
 
 ## 🗺️ 从理解到实践的阅读路线
 
@@ -120,6 +121,7 @@ python demos/python/quickstart.py --case research
 | 3 分钟 | [系统说明](docs/system-overview.md) | 状态、问题、答案与边界 |
 | 5 分钟 | [快速开始](docs/getting-started.md) | 跑通一次真实请求 |
 | 10 分钟 | [社区报告](docs/community-report.md) | 支持与质疑各自的理由 |
+?? **????**?[Demo ???](demos/README.md) ? [????? Demo](demos/web/index.html) ? [Agent ??](docs/agent.md)
 | 15 分钟 | [工程模式](docs/patterns.md) | 门槛、回退、评估和副作用 |
 | 按需 | [14 类 Demo 地图](catalog/demos.md) · [项目导航](catalog/projects.md) | 找到适合自己场景的项目 |
 

@@ -112,6 +112,7 @@ Inputs are synthetic; saved responses are actual calls. Consult the [validation 
 [Tùng Đinh on speed/cost](https://x.com/tdinh_me/status/2100803719575343138) · [Tamara's compaction proposal](https://x.com/tamarajtran/status/2100694549362553153) · [Theo's critique](https://x.com/theo/status/2100762304862384257) · [Theo's qualified endorsement](https://x.com/theo/status/2101857305570721847) · [Karminski's reported maze failure](https://x.com/karminski3/status/2101941770003361893).
 
 ➡️ **[Read the community report](docs/en/community-report.md)** for arguments, counterexamples, engineering implications and sampling limits.
+?? **Recording kit**: [Demo studio](demos/README.md) ? [Offline browser demo](demos/web/index.html) ? [Agent integration](docs/agent.md)
 
 ## 🗺️ Your reading path
 
